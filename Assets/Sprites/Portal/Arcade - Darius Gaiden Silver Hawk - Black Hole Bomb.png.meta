@@ -1,0 +1,2294 @@
+fileFormatVersion: 2
+guid: b5fec2243645abd49a2fd62c246220c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4427596299815361569
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_0
+  - first:
+      213: -9051703272947289669
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_1
+  - first:
+      213: 4255967069891939768
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_2
+  - first:
+      213: -5683724545032200464
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_3
+  - first:
+      213: 3939127889440285014
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_4
+  - first:
+      213: 2521053639903201441
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_5
+  - first:
+      213: 2280441014746030283
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_6
+  - first:
+      213: -5794202842621408832
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_7
+  - first:
+      213: 4896890934570870846
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_8
+  - first:
+      213: 6424528602643561403
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_9
+  - first:
+      213: 6860027301076457538
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_10
+  - first:
+      213: 3231342631421424422
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_11
+  - first:
+      213: -318143532353202143
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_12
+  - first:
+      213: -5415845445764412311
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_13
+  - first:
+      213: 5509849530953977538
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_14
+  - first:
+      213: -3337883095610133559
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_15
+  - first:
+      213: -2262587388642740419
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_16
+  - first:
+      213: -4917169957227586073
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_17
+  - first:
+      213: 4251521661083404867
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_18
+  - first:
+      213: 4220933926704521253
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_19
+  - first:
+      213: -8358066011827529265
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_20
+  - first:
+      213: -9163884244155028047
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_21
+  - first:
+      213: -1242993076303515885
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_22
+  - first:
+      213: 7636186013516592690
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_23
+  - first:
+      213: 6530078389276538977
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_24
+  - first:
+      213: 9198623056105216278
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_25
+  - first:
+      213: -5557863411637848863
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_26
+  - first:
+      213: 3831119845452981358
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_27
+  - first:
+      213: 6798421793594413468
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_28
+  - first:
+      213: -8960968058400082955
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_29
+  - first:
+      213: 3136140419086947147
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_30
+  - first:
+      213: 1800673254684905002
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_31
+  - first:
+      213: 8399622094465046669
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_32
+  - first:
+      213: -8001405030726708261
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_33
+  - first:
+      213: 8815422787855920637
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_34
+  - first:
+      213: -6881423251596498761
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_35
+  - first:
+      213: 2107818410556047791
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_36
+  - first:
+      213: 8111845295939862530
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_37
+  - first:
+      213: -2707295166794266635
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_38
+  - first:
+      213: -7266246342153481602
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_39
+  - first:
+      213: -5724206820867315255
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_40
+  - first:
+      213: -1003119555892120315
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_41
+  - first:
+      213: -2677524508882020728
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_42
+  - first:
+      213: 4528768478591269298
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_43
+  - first:
+      213: 8633448766294649434
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_44
+  - first:
+      213: 5911292669962280485
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_45
+  - first:
+      213: -327982768584643785
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_46
+  - first:
+      213: 709874807445338949
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_47
+  - first:
+      213: -8644352313718698323
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_48
+  - first:
+      213: -5223594398339650821
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_49
+  - first:
+      213: -345003467263977224
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_50
+  - first:
+      213: -4809330966838774517
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_51
+  - first:
+      213: 3203652573302631504
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_52
+  - first:
+      213: -7415189063566055011
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_53
+  - first:
+      213: 8503860587984879887
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_54
+  - first:
+      213: 3958517303390979112
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_55
+  - first:
+      213: 2257850280105603261
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_56
+  - first:
+      213: 3165028308237232517
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_57
+  - first:
+      213: 7489534453623579815
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_58
+  - first:
+      213: -4521155649728411001
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_59
+  - first:
+      213: 6707558482451438897
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_60
+  - first:
+      213: 627516776176058383
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_61
+  - first:
+      213: 4232103948255096667
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_62
+  - first:
+      213: -933583508619150139
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_63
+  - first:
+      213: 6706724253191663583
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_64
+  - first:
+      213: 15329160045227299
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_65
+  - first:
+      213: 6234193864264320181
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_66
+  - first:
+      213: -4628413275848385553
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_67
+  - first:
+      213: 7910260002254315441
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_68
+  - first:
+      213: 977442592223878920
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_69
+  - first:
+      213: 72565554453387968
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_70
+  - first:
+      213: 7775801240608583430
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_71
+  - first:
+      213: 3091161269120252411
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_72
+  - first:
+      213: -3684866725180867395
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_73
+  - first:
+      213: 920348462401841153
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_74
+  - first:
+      213: -4149143537453400887
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_75
+  - first:
+      213: 6376938783451726125
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_76
+  - first:
+      213: -8845550627751457442
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_77
+  - first:
+      213: 1707403076169809510
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_78
+  - first:
+      213: -432401371588350353
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_79
+  - first:
+      213: -7519866561169074329
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_80
+  - first:
+      213: -6733191528455621033
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_81
+  - first:
+      213: -3241575579421583774
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_82
+  - first:
+      213: 1740982005626991289
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_83
+  - first:
+      213: 8681762053364884799
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_84
+  - first:
+      213: 1699512656098594024
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_85
+  - first:
+      213: 5206776408408794477
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_86
+  - first:
+      213: 8012724452369876142
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_87
+  - first:
+      213: -5988733407404046635
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_88
+  - first:
+      213: 4251018913583310132
+    second: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_89
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 262
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba12bfc8988cd194898ea30cdab40797
+      internalID: 4427596299815361569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 262
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d0fd2c50f1acf498d9e443194bbb29
+      internalID: -9051703272947289669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_2
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 262
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b52d389992c54841941de5e4c66decc
+      internalID: 4255967069891939768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_3
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 262
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8868bec09946034bb9a7d1901f0bb60
+      internalID: -5683724545032200464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_4
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 262
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1678173adf756624c9378dd0ba9cb513
+      internalID: 3939127889440285014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_5
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 262
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a19b734b38c48498d7ac379b4c074a
+      internalID: 2521053639903201441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_6
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 262
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d989a60f0589fe1469c4d5b18904e6c3
+      internalID: 2280441014746030283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_7
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 262
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d42824fcf6b04498f30fa14d2a7aa0
+      internalID: -5794202842621408832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_8
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 181
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacaf82760d3d0741b75107c3716b666
+      internalID: 4896890934570870846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 18
+        width: 320
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe63a53e76e0866439de528bb11f4089
+      internalID: 6424528602643561403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_10
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 18
+        width: 320
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbdca20b9f5f37448449a4c1411b7fd
+      internalID: 6860027301076457538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_11
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 18
+        width: 319
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac46fe63f5bdf7b4ba06e94b7b0f5afc
+      internalID: 3231342631421424422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 150
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b5c42c5926f4c418f46a17e3c90d07
+      internalID: -318143532353202143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_13
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 116
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbe5ad76e2381348a49e492dcbd8c13
+      internalID: -5415845445764412311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_14
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 97
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dc4ec16996a7b4c9c483cbb3bd0ad3
+      internalID: 5509849530953977538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 80
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2ed5a6c66fffc41b462f187e43b89e
+      internalID: -3337883095610133559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_16
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 61
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08e7ab584fbf9447abf9bdc58e83922
+      internalID: -2262587388642740419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_17
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 6
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b77c0eaabb34945b93105a52dd7715
+      internalID: -4917169957227586073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_18
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2164f4ed866b7c94c945da64f8b090b0
+      internalID: 4251521661083404867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_19
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db59112e722ad34687f0004cf898cf4
+      internalID: 4220933926704521253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_20
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af82fc601dc88c84981fdd5c999d1a53
+      internalID: -8358066011827529265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_21
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7367543ab24a9324fa61fb872e261b9c
+      internalID: -9163884244155028047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_22
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 6
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba85a75ae76051e4690001fabc480863
+      internalID: -1242993076303515885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_23
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bce41fd8a9f68844bfdb8332971adc9
+      internalID: 7636186013516592690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_24
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 6
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cfc1162bc186249bfbe69ead24ea03
+      internalID: 6530078389276538977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_25
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcff702fff493244829725ce4eb3524
+      internalID: 9198623056105216278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_26
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 6
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f82f0e4d0d43f42851a42e92e70c46
+      internalID: -5557863411637848863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_27
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7043d65c849b48443b3923fcdbc3e1c3
+      internalID: 3831119845452981358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_28
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 6
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb5711c110f0e846b7b9453a07aed4a
+      internalID: 6798421793594413468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_29
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f444bfebb41fb40429e87fe6f206b435
+      internalID: -8960968058400082955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_30
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 6
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59957e1bb472807408f1860c64064049
+      internalID: 3136140419086947147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_31
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbea33b68ac204140b95adaf645f3e7d
+      internalID: 1800673254684905002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_32
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a591a15e5a6194f85415e68cf9cd77
+      internalID: 8399622094465046669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_33
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 6
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e24106ade8621d418d95325b357d76a
+      internalID: -8001405030726708261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_34
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce2cdfc3fa882d408d7c461bab8d97d
+      internalID: 8815422787855920637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_35
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3529dbc41193a479bff0e12824038c
+      internalID: -6881423251596498761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_36
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c553b3194cddde94e9474e447bf849ab
+      internalID: 2107818410556047791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_37
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 6
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcb151ae6fab5749be751d52d9c74c6
+      internalID: 8111845295939862530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_38
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af7ee0022d11144cbc4378782c717a6
+      internalID: -2707295166794266635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_39
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 6
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793120f082efa8441a6e536cf8cda25a
+      internalID: -7266246342153481602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_40
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 6
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69975b3c986fc584f99b5cd721177e30
+      internalID: -5724206820867315255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_41
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd2b548c77bbda4086c7fec2467f37d
+      internalID: -1003119555892120315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_42
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 6
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0ccb0968cb0a24ea556715dedc367d
+      internalID: -2677524508882020728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_43
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df6c58c591b12146a314353d9c6b1c1
+      internalID: 4528768478591269298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_44
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1a5834bce9c79459398182f7d63e7e
+      internalID: 8633448766294649434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_45
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 6
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9978f2077ada8a438e9f7b0b6f323b7
+      internalID: 5911292669962280485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_46
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 6
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a060993c8f6947c4899dd44228d14652
+      internalID: -327982768584643785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_47
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 6
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b7615e44f86da4fb07cb84c6cfe154
+      internalID: 709874807445338949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_48
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 4
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4782e136973b498499b51fb72af8c797
+      internalID: -8644352313718698323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_49
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 4
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f578538932a17940a2b5bae05626589
+      internalID: -5223594398339650821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_50
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68db29bdb20c154787cfbbedb19c6fb
+      internalID: -345003467263977224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_51
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886899d9856bd774dbb2d3777b518e20
+      internalID: -4809330966838774517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_52
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cfcc4ed7d4eba4dacaefe3be7f3148
+      internalID: 3203652573302631504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_53
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 4
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abaf60ce64d2ea4c84ed266a72c7702
+      internalID: -7415189063566055011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_54
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 6
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e616d98fe2759248a980b312a733d08
+      internalID: 8503860587984879887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_55
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 5
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb30fb1a0b991d4ca8f944ba21cd1c7
+      internalID: 3958517303390979112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_56
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 6
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cd440c3d3995e498418f09fdb1fcc5
+      internalID: 2257850280105603261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_57
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8466aefb644064a43a58bf2f583ee8e1
+      internalID: 3165028308237232517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_58
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 4
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e0bfd160fe0f04b9e18f49411fab05
+      internalID: 7489534453623579815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_59
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 6
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b41938049598ab4195763fe14698c32
+      internalID: -4521155649728411001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_60
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c662e69eca823524c988a803a724fb0b
+      internalID: 6707558482451438897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_61
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 6
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ac826f19d80bf4da680ed41cfd7869
+      internalID: 627516776176058383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_62
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 6
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143e1b2d702bbb5488d5cf38a2dec2b2
+      internalID: 4232103948255096667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_63
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 6
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855585ed845fe344e8d49aebe130b58c
+      internalID: -933583508619150139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_64
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c1ad45722027748a33b69da687b434
+      internalID: 6706724253191663583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_65
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 4
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344a0798b7ba4774cafa141111de117f
+      internalID: 15329160045227299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_66
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 4
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb623ed79f8f1f94ca05ba505ce99e16
+      internalID: 6234193864264320181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_67
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 4
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590dc1bf73e364f47bd217efa054217a
+      internalID: -4628413275848385553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_68
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48911ac2bfc948642a70f283619e7731
+      internalID: 7910260002254315441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_69
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 6
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a9af11b2041bc4597d645fd5a11066
+      internalID: 977442592223878920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_70
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 6
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ad3d0630804f245912d3fe2634b044
+      internalID: 72565554453387968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_71
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94a1b6080385bb4393639b1d3675efc
+      internalID: 7775801240608583430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_72
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55662cb1d35cb704190bc50aec436ffb
+      internalID: 3091161269120252411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_73
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 6
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed80c9a9728cdd4ca879f0d344cd09a
+      internalID: -3684866725180867395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_74
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5da6b6cfee3c7e4496dd2ebda1247c4
+      internalID: 920348462401841153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_75
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 6
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b3b6158600b41499358d2206bb2cf8
+      internalID: -4149143537453400887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_76
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35675923b1ffe7f4a997a90c56bcc6f6
+      internalID: 6376938783451726125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_77
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608f1d9195d30774e9da321e618eeaa3
+      internalID: -8845550627751457442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_78
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac252250b95c544888236bfd4d43486
+      internalID: 1707403076169809510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_79
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79036275bc4a6534c92fb9f44cb23f84
+      internalID: -432401371588350353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_80
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81178bfe316678d48a6664dd5f565ee4
+      internalID: -7519866561169074329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_81
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 6
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90be0bcded82e044ca67eea3cabc9561
+      internalID: -6733191528455621033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_82
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af515523259d7f42b33c30982facb71
+      internalID: -3241575579421583774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_83
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67075188728af5428f48ae066c2366a
+      internalID: 1740982005626991289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_84
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a73a2b8ee885134fa6b6ed74f23b5cd
+      internalID: 8681762053364884799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_85
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb70eabdd8fb8249a03f4686dc7955d
+      internalID: 1699512656098594024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_86
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd100920d1b3e3a448e1a56852d8993b
+      internalID: 5206776408408794477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_87
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecfcc4a3c3ee1b40b1d9f63a9c6aff9
+      internalID: 8012724452369876142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_88
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a4af15e8a5b0c4688116e6055f014e
+      internalID: -5988733407404046635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Darius Gaiden Silver Hawk - Black Hole Bomb_89
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 4
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd5a8c1b9fe13245afbedac1dc2bda9
+      internalID: 4251018913583310132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9c0f27ab9d17a8b44aed3d52a58e50ff
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

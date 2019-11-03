@@ -1,0 +1,2294 @@
+fileFormatVersion: 2
+guid: 2fcbffbf68df925459bab9414764b5ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7682337099509114295
+    second: Red-Darius_0
+  - first:
+      213: -173393264761465275
+    second: Red-Darius_1
+  - first:
+      213: -5400351236346585110
+    second: Red-Darius_2
+  - first:
+      213: 3071512017070076071
+    second: Red-Darius_3
+  - first:
+      213: -6663716497353141862
+    second: Red-Darius_4
+  - first:
+      213: -5188796708750801877
+    second: Red-Darius_5
+  - first:
+      213: 87917527687373907
+    second: Red-Darius_6
+  - first:
+      213: -170831063486617432
+    second: Red-Darius_7
+  - first:
+      213: -5470285817388252624
+    second: Red-Darius_8
+  - first:
+      213: -7679779646130263401
+    second: Red-Darius_9
+  - first:
+      213: -5421521618177686606
+    second: Red-Darius_10
+  - first:
+      213: -720652560716124683
+    second: Red-Darius_11
+  - first:
+      213: -8062798561112996407
+    second: Red-Darius_12
+  - first:
+      213: -4915460513048980630
+    second: Red-Darius_13
+  - first:
+      213: 8977051138564220446
+    second: Red-Darius_14
+  - first:
+      213: 3798981741359035741
+    second: Red-Darius_15
+  - first:
+      213: 6860893076482723950
+    second: Red-Darius_16
+  - first:
+      213: 2221367445300780396
+    second: Red-Darius_17
+  - first:
+      213: -9093462521921246671
+    second: Red-Darius_18
+  - first:
+      213: 5423121837315898444
+    second: Red-Darius_19
+  - first:
+      213: -1535320577286239049
+    second: Red-Darius_20
+  - first:
+      213: -898705747893139832
+    second: Red-Darius_21
+  - first:
+      213: -118704882790068171
+    second: Red-Darius_22
+  - first:
+      213: 4336280017292744023
+    second: Red-Darius_23
+  - first:
+      213: 3096482762238372266
+    second: Red-Darius_24
+  - first:
+      213: 5225026904401490187
+    second: Red-Darius_25
+  - first:
+      213: -5812298293786504626
+    second: Red-Darius_26
+  - first:
+      213: 724181538993697629
+    second: Red-Darius_27
+  - first:
+      213: 2026137432665863641
+    second: Red-Darius_28
+  - first:
+      213: -8365657792423166272
+    second: Red-Darius_29
+  - first:
+      213: -7914130071409081560
+    second: Red-Darius_30
+  - first:
+      213: -3905065444202687489
+    second: Red-Darius_31
+  - first:
+      213: 2609601964520501090
+    second: Red-Darius_32
+  - first:
+      213: -5773580472484827667
+    second: Red-Darius_33
+  - first:
+      213: 5010962254294438968
+    second: Red-Darius_34
+  - first:
+      213: -1741616773405434982
+    second: Red-Darius_35
+  - first:
+      213: -4996539008018269825
+    second: Red-Darius_36
+  - first:
+      213: -2529188677953545856
+    second: Red-Darius_37
+  - first:
+      213: -985145556657611580
+    second: Red-Darius_38
+  - first:
+      213: -6982059948730516711
+    second: Red-Darius_39
+  - first:
+      213: 3782638573087244204
+    second: Red-Darius_40
+  - first:
+      213: -3402993464954823048
+    second: Red-Darius_41
+  - first:
+      213: 2215333058450137321
+    second: Red-Darius_42
+  - first:
+      213: 6812504110167950166
+    second: Red-Darius_43
+  - first:
+      213: 1845116762428654408
+    second: Red-Darius_44
+  - first:
+      213: 2688238365239333386
+    second: Red-Darius_45
+  - first:
+      213: 8684634206222974139
+    second: Red-Darius_46
+  - first:
+      213: 114668816764347416
+    second: Red-Darius_47
+  - first:
+      213: 8918456601119431428
+    second: Red-Darius_48
+  - first:
+      213: -2827653477932388485
+    second: Red-Darius_49
+  - first:
+      213: -303200407172234385
+    second: Red-Darius_50
+  - first:
+      213: -3304694181173898340
+    second: Red-Darius_51
+  - first:
+      213: -1981691927446356046
+    second: Red-Darius_52
+  - first:
+      213: -8361629584108691347
+    second: Red-Darius_53
+  - first:
+      213: -2940502372587093100
+    second: Red-Darius_54
+  - first:
+      213: -4067622143443524778
+    second: Red-Darius_55
+  - first:
+      213: -7473682250793852908
+    second: Red-Darius_56
+  - first:
+      213: 1489304098437660863
+    second: Red-Darius_57
+  - first:
+      213: 1724147414700143514
+    second: Red-Darius_58
+  - first:
+      213: -393644249859951738
+    second: Red-Darius_59
+  - first:
+      213: 8236872161575682472
+    second: Red-Darius_60
+  - first:
+      213: 4820907371302334705
+    second: Red-Darius_61
+  - first:
+      213: -3715115360241904983
+    second: Red-Darius_62
+  - first:
+      213: -1064917324513078876
+    second: Red-Darius_63
+  - first:
+      213: 1094166375255979903
+    second: Red-Darius_64
+  - first:
+      213: 6544177981044165356
+    second: Red-Darius_65
+  - first:
+      213: 2938773096756351381
+    second: Red-Darius_66
+  - first:
+      213: 5058882556217327700
+    second: Red-Darius_67
+  - first:
+      213: -4936245368664988152
+    second: Red-Darius_68
+  - first:
+      213: -5329698825679360009
+    second: Red-Darius_69
+  - first:
+      213: -2378637011719586653
+    second: Red-Darius_70
+  - first:
+      213: -6433930806699989436
+    second: Red-Darius_71
+  - first:
+      213: 905703395241648021
+    second: Red-Darius_72
+  - first:
+      213: 5544754373653141928
+    second: Red-Darius_73
+  - first:
+      213: -1588511199294953485
+    second: Red-Darius_74
+  - first:
+      213: -7654150768934324113
+    second: Red-Darius_75
+  - first:
+      213: -450222826502434407
+    second: Red-Darius_76
+  - first:
+      213: 4912973319273224754
+    second: Red-Darius_77
+  - first:
+      213: -6259557530543055117
+    second: Red-Darius_78
+  - first:
+      213: 206932015218846310
+    second: Red-Darius_79
+  - first:
+      213: 6167978958364498899
+    second: Red-Darius_80
+  - first:
+      213: 7179059770623074354
+    second: Red-Darius_81
+  - first:
+      213: -8552644183410938267
+    second: Red-Darius_82
+  - first:
+      213: 7594772505654649490
+    second: Red-Darius_83
+  - first:
+      213: 7099664089524821512
+    second: Red-Darius_84
+  - first:
+      213: -8919013107519808333
+    second: Red-Darius_85
+  - first:
+      213: 7514525503824374518
+    second: Red-Darius_86
+  - first:
+      213: -5779972841382130821
+    second: Red-Darius_87
+  - first:
+      213: 4739243278542820327
+    second: Red-Darius_88
+  - first:
+      213: -4956512019175361671
+    second: Red-Darius_89
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Red-Darius_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 262
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92875ec61dbff34181745fcdb1556f5
+      internalID: 7682337099509114295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 262
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ead89bfe2b829a468d15ef0a2022eef
+      internalID: -173393264761465275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_2
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 262
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5b0adb3f0447146bed073e1772f385
+      internalID: -5400351236346585110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_3
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 262
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951007dcf93f8ca43b427976f34ae4f1
+      internalID: 3071512017070076071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_4
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 262
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def62ec0e3f5c6e4c96900ba1664ea5a
+      internalID: -6663716497353141862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_5
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 262
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f073efa93f24f4b9be3661baba8b61
+      internalID: -5188796708750801877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_6
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 262
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36513981a1a3c347ae8ea9da8bae624
+      internalID: 87917527687373907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_7
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 262
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0943fa01aa4f0740b6e6dc3675bc035
+      internalID: -170831063486617432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_8
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 181
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31798e412e0e67d4fa9627d66ca26617
+      internalID: -5470285817388252624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 18
+        width: 320
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415303686a6c14744bee49f8b35b1354
+      internalID: -7679779646130263401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_10
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 18
+        width: 320
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de869f18648f4024cb417c7404d69ddd
+      internalID: -5421521618177686606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_11
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 18
+        width: 319
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c0c187544528544a093079d9eeca00
+      internalID: -720652560716124683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 150
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dccd5b02d4b16419c8dc78b6b77bfc
+      internalID: -8062798561112996407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_13
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 116
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72ef390f2c9eaf4ebca975386df1e6c
+      internalID: -4915460513048980630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_14
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 97
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162cc704b2fac9146ab2e0659e1c1b6e
+      internalID: 8977051138564220446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 80
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7601c83e2a9860488b5d2486f98d223
+      internalID: 3798981741359035741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_16
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 61
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394129ac7f4603142a1b26f77053d0a5
+      internalID: 6860893076482723950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_17
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 6
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2849891ced827af46b7261ad0d7546ce
+      internalID: 2221367445300780396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_18
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5896fda1071a6408eca48ac2e3bde4
+      internalID: -9093462521921246671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_19
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c428cf8f9642e84eb33a9c95e3767bd
+      internalID: 5423121837315898444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_20
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae941caee6fd7484c8cfc93df5c4dc17
+      internalID: -1535320577286239049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_21
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c445e562eb667d41b663c8b38734768
+      internalID: -898705747893139832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_22
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 6
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cccfb68b4b1de42b4da10ba81a235c
+      internalID: -118704882790068171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_23
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcacbf0f29a94644f953121fb9367fd7
+      internalID: 4336280017292744023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_24
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 6
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a742a20b8bece0f4f8df9f2a8e353d16
+      internalID: 3096482762238372266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_25
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bef23ca2a0b9c74e9c1c8707147ee1c
+      internalID: 5225026904401490187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_26
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 6
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12eec764af64ba947a36f5887d9507be
+      internalID: -5812298293786504626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_27
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7262252881833428ed087ce2055eec
+      internalID: 724181538993697629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_28
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 6
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2b8270fe2330a409a32fecada7b3ef
+      internalID: 2026137432665863641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_29
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd123ff44e5a3c4b8a461ee1b8cde83
+      internalID: -8365657792423166272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_30
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 6
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03aee1c474b56c048a9ea1e94e469894
+      internalID: -7914130071409081560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_31
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5011b5b08c23ab74098a034f3daf884d
+      internalID: -3905065444202687489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_32
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e13f98056cef842903f5d3052414c3
+      internalID: 2609601964520501090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_33
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 6
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362cf95bfbc5ad1418cb4d301071575d
+      internalID: -5773580472484827667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_34
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77862483c4ee8f147ad7f16ac61f85e1
+      internalID: 5010962254294438968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_35
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e001cf9147c122d43b9f458ddf7fbe41
+      internalID: -1741616773405434982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_36
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f0a69aa85c70542a34815a09641694
+      internalID: -4996539008018269825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_37
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 6
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f96e0a61881304bbb86e0fbf4a26c0
+      internalID: -2529188677953545856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_38
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbd6a4ebd4201d4f8246c4b8f6bff79
+      internalID: -985145556657611580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_39
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 6
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4471ed2822fa124eb8440b33414f58a
+      internalID: -6982059948730516711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_40
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 6
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda93c1a1b551ad4daa5dffa4f039907
+      internalID: 3782638573087244204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_41
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94777b8eeb1c8d941a58419561c2e732
+      internalID: -3402993464954823048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_42
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 6
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0502c74323802e4488909af083516018
+      internalID: 2215333058450137321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_43
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1de331f6fd67041bb79be954959260
+      internalID: 6812504110167950166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_44
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1837a3f52638c4f90f74f3d8b9e957
+      internalID: 1845116762428654408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_45
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 6
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6123efa875f74524e8d0e7cbb451c1c8
+      internalID: 2688238365239333386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_46
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 6
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5ff7d768589f54eaa24fd4581812cf
+      internalID: 8684634206222974139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_47
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 6
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e23300a3ea483c43a87a26d2c6ee24a
+      internalID: 114668816764347416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_48
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 4
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f50925aff9ff364f857714f9a74c48d
+      internalID: 8918456601119431428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_49
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 4
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c9680a224b2ac4a9ce8f23ab5ca273
+      internalID: -2827653477932388485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_50
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a224714288f42d449cdd0ef6b083eeb
+      internalID: -303200407172234385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_51
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1c167baa7613049a01e078c88356d5
+      internalID: -3304694181173898340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_52
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25984f951871d214295236e2939c5e47
+      internalID: -1981691927446356046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_53
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 4
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d1c90d7fbbc4041baeb7cabbc0007a
+      internalID: -8361629584108691347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_54
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 6
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70b73b96748fc74092e11259d9fed86
+      internalID: -2940502372587093100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_55
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 5
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7e7c6decb21a24a9ec41654c2ea2b9
+      internalID: -4067622143443524778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_56
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 6
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6d6cadc44181c47ac7761ac481f396
+      internalID: -7473682250793852908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_57
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24405cf4aeaf40647837caf99c3038eb
+      internalID: 1489304098437660863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_58
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 4
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61970469b7b07914bbfead8121eca05c
+      internalID: 1724147414700143514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_59
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 6
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0409d3829045f4886c7eb716489565
+      internalID: -393644249859951738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_60
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8b1409277434b4299f03d94ddb3fb1
+      internalID: 8236872161575682472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_61
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 6
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3119f4c2f006854d937a4fcf595bb57
+      internalID: 4820907371302334705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_62
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 6
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a643e2e54bcd3d843aa173475441e1a0
+      internalID: -3715115360241904983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_63
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 6
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0947fa93343b67f47aa50c04ea0578da
+      internalID: -1064917324513078876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_64
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e459cc0be2dbe841a6de081d8b70489
+      internalID: 1094166375255979903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_65
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 4
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126763ae74d589d45807a99b160b2c29
+      internalID: 6544177981044165356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_66
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 4
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3e1f6343c1d6d46a915f489cdab588
+      internalID: 2938773096756351381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_67
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 4
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99768ec7723435847a67c35b69ea0b35
+      internalID: 5058882556217327700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_68
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c90fc3e1fc995b4a8fca9f36a6b05c2
+      internalID: -4936245368664988152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_69
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 6
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1920ca8f7fabbcd4188cb152533b48d6
+      internalID: -5329698825679360009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_70
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 6
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df46dc46929a1ab4497bb4deb75a4f2a
+      internalID: -2378637011719586653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_71
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0c8505428ec7644a3996a768c5aaca
+      internalID: -6433930806699989436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_72
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f833bd7f3eec900468641ae7d790268f
+      internalID: 905703395241648021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_73
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 6
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7e5b77593c3a74b8e9b3575e5e2778
+      internalID: 5544754373653141928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_74
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053dc2f6eae896146944ff23055d703f
+      internalID: -1588511199294953485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_75
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 6
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162865bfb1cdaad44b6e92ba04fd0c77
+      internalID: -7654150768934324113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_76
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda9e689c564621488797826b58da262
+      internalID: -450222826502434407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_77
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba0fda15ca9eec4985341f88d63543a
+      internalID: 4912973319273224754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_78
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff70bf8b86984d409754b696f669a62
+      internalID: -6259557530543055117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_79
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821c5fa609351e24ca935ea3c98f6b38
+      internalID: 206932015218846310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_80
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b78dc9f6901d6e419691e494f870641
+      internalID: 6167978958364498899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_81
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 6
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bec89cc61987744d85894c95ce697b5
+      internalID: 7179059770623074354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_82
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b0e7f3035937c41b5cb8aaf14b8492
+      internalID: -8552644183410938267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_83
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3354122ea2753b04eabb1a5500fcc6a5
+      internalID: 7594772505654649490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_84
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2a88ec026a5dc43b81e0781dbc9b41
+      internalID: 7099664089524821512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_85
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf2e5bec5d85734f91424119c356ade
+      internalID: -8919013107519808333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_86
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128a86960fd36204c80ad69e75823a73
+      internalID: 7514525503824374518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_87
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57545f521261c484888e92af614dc4d4
+      internalID: -5779972841382130821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_88
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e010685bb91bb3242868874c89c7b82c
+      internalID: 4739243278542820327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red-Darius_89
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 4
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521b4acf07844b243a9ab0cc315b2b9f
+      internalID: -4956512019175361671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 451ed985a5de8a0428e3651693f38481
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
