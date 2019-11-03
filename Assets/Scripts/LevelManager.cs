@@ -19,6 +19,9 @@ public class LevelManager : Singleton<LevelManager>
     [SerializeField]
     private GameObject redPortalPrefab;
 
+    private Point mapSize; 
+
+
     [SerializeField]
     private Transform map;
 
@@ -63,6 +66,8 @@ public class LevelManager : Singleton<LevelManager>
 
 
         string[] mapData = readLevelText();
+
+        mapSize = new Point(mapData[0].ToCharArray().Length,mapData.Length);
 
         int mapX = mapData[0].ToCharArray().Length;
         int mapY = mapData.Length;
@@ -114,5 +119,10 @@ public class LevelManager : Singleton<LevelManager>
 
     }
 
+    public bool InBounds(Point position)
+    {
+        return position.X >= 0 && position.Y >= 0 && position.X < mapSize.X
+            && position.Y < mapSize.Y;
+    }
 
 }
