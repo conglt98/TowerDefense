@@ -13,6 +13,9 @@ public class AstarDebugger : MonoBehaviour
     [SerializeField]
     private GameObject arrowPrefab;
 
+    [SerializeField]
+    private GameObject debugTilePrefab;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -46,17 +49,12 @@ public class AstarDebugger : MonoBehaviour
                     if (start == null)
                     {
                         start = tmp;
-                        start.SpriteRenderer.sprite = blankTile;
-                        start.Debugging = true;
-                        start.SpriteRenderer.color = Color.green;
+                        CreateDebugTile(start.WorldPosition, new Color32(255, 135, 0, 255));
                     }
                     else if (goal == null)
                     {
                         goal = tmp;
-                        goal.SpriteRenderer.sprite = blankTile;
-                        goal.Debugging = true;
-                        goal.SpriteRenderer.color = new Color32(255, 0, 0, 255);
-
+                        CreateDebugTile(goal.WorldPosition, new Color32(255, 0, 0, 255));
                     }
                 }
             }
@@ -64,17 +62,24 @@ public class AstarDebugger : MonoBehaviour
         }
     }
 
-    public void DebugPath(HashSet<Node> openList)
+    public void DebugPath(HashSet<Node> openList, HashSet<Node> closedList)
     {
         foreach (Node node in openList)
         {
             if (node.TileRef!=start)
             {
-                node.TileRef.SpriteRenderer.color = Color.cyan;
-                node.TileRef.SpriteRenderer.sprite = blankTile;
+                CreateDebugTile(node.TileRef.WorldPosition, Color.cyan);
             }
 
             PointToParent(node, node.TileRef.WorldPosition);
+        }
+
+        foreach (Node node in closedList)
+        {
+            if (node.TileRef != start && node.TileRef != goal)
+            {
+                CreateDebugTile(node.TileRef.WorldPosition, Color.blue);
+            }
         }
     }
 
@@ -84,6 +89,7 @@ public class AstarDebugger : MonoBehaviour
         {
             GameObject arrow = (GameObject)Instantiate(arrowPrefab, position, Quaternion.identity);
 
+            arrow.GetComponent<SpriteRenderer>().sortingOrder = 3;
 
             //Right
             if (node.GridPosition.X < node.Parent.GridPosition.X &&
@@ -128,5 +134,12 @@ public class AstarDebugger : MonoBehaviour
         }
 
         
+    }
+
+    private void CreateDebugTile(Vector3 worldPos, Color32 color)
+    {
+        GameObject debugTile = (GameObject)Instantiate(debugTilePrefab, worldPos, Quaternion.identity);
+
+        debugTile.GetComponent<SpriteRenderer>().color = color;
     }
 }
