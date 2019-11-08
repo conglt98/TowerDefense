@@ -29,7 +29,7 @@ public class AstarDebugger : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            Astar.GetPath(start.GridPosition);
+            Astar.GetPath(start.GridPosition, goal.GridPosition);
         }
     }
 
@@ -142,7 +142,11 @@ public class AstarDebugger : MonoBehaviour
 
         if(node != null)
         {
-            debugTile.GetComponent<DebugTile>().G.text += node.G;
+            DebugTile tmp = debugTile.GetComponent<DebugTile>();
+
+            tmp.G.text += node.G;
+            tmp.H.text += node.H;
+            tmp.F.text += node.F; 
         }
 
         debugTile.GetComponent<SpriteRenderer>().color = color;
