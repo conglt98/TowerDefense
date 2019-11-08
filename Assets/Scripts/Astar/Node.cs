@@ -10,14 +10,17 @@ public class Node
 
     public Node Parent { get; private set; }
 
+    public int G { get; set; }
+
     public Node(TileScript tileRef)
     {
         this.TileRef = tileRef;
         this.GridPosition = tileRef.GridPosition;
     } 
 
-    public void CalcValues(Node parent)
+    public void CalcValues(Node parent, int gCost)
     {
         this.Parent = parent;
+        this.G = parent.G + gCost;
     }
 }
