@@ -27,7 +27,7 @@ public class GameManager : Singleton<GameManager>
     // Start is called before the first frame update
     void Start()
     {
-        Currency = 3;
+        Currency = 100;
     }
 
     // Update is called once per frame
