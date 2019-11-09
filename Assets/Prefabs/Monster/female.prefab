@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 885278096024574496}
   - component: {fileID: 2612845912891848729}
   - component: {fileID: 4272143526244338666}
+  - component: {fileID: -212768337920662156}
   m_Layer: 0
   m_Name: female
   m_TagString: Untagged
@@ -93,3 +94,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 1
+--- !u!95 &-212768337920662156
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8459785942801469116}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 4ad2061085e8f84478abd5e6159ff5b6, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
