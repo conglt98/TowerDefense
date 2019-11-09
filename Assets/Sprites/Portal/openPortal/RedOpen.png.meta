@@ -1,0 +1,1838 @@
+fileFormatVersion: 2
+guid: b82c94145dff4a246bebf10122e952cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6896023458539759870
+    second: RedOpen_0
+  - first:
+      213: -6939821043935411937
+    second: RedOpen_1
+  - first:
+      213: 4656004813759936798
+    second: RedOpen_2
+  - first:
+      213: -2002378608004994742
+    second: RedOpen_3
+  - first:
+      213: -5104178700085911178
+    second: RedOpen_4
+  - first:
+      213: 5599452494951678942
+    second: RedOpen_5
+  - first:
+      213: -1977248801787118533
+    second: RedOpen_6
+  - first:
+      213: -4640550086274471601
+    second: RedOpen_7
+  - first:
+      213: 3996779834353434890
+    second: RedOpen_8
+  - first:
+      213: 8919131618683283610
+    second: RedOpen_9
+  - first:
+      213: -9166210286757468173
+    second: RedOpen_10
+  - first:
+      213: 1912858626933127017
+    second: RedOpen_11
+  - first:
+      213: 7633944816836766158
+    second: RedOpen_12
+  - first:
+      213: 676014392410915139
+    second: RedOpen_13
+  - first:
+      213: 1790974499309287471
+    second: RedOpen_14
+  - first:
+      213: -4979508809452801526
+    second: RedOpen_15
+  - first:
+      213: -7071663594390117003
+    second: RedOpen_16
+  - first:
+      213: -2972853801546740736
+    second: RedOpen_17
+  - first:
+      213: 2657325391233442882
+    second: RedOpen_18
+  - first:
+      213: -8558492587396201857
+    second: RedOpen_19
+  - first:
+      213: -3663069533713964876
+    second: RedOpen_20
+  - first:
+      213: -8054080348021129114
+    second: RedOpen_21
+  - first:
+      213: -8999518604447636662
+    second: RedOpen_22
+  - first:
+      213: -4238890065449421274
+    second: RedOpen_23
+  - first:
+      213: 4821358356164136615
+    second: RedOpen_24
+  - first:
+      213: 5432553179174189549
+    second: RedOpen_25
+  - first:
+      213: 554194696869550665
+    second: RedOpen_26
+  - first:
+      213: -6250108225116862875
+    second: RedOpen_27
+  - first:
+      213: 2520831114469116067
+    second: RedOpen_28
+  - first:
+      213: 5253527336617137021
+    second: RedOpen_29
+  - first:
+      213: -8512605183651892227
+    second: RedOpen_30
+  - first:
+      213: 8688072982812111491
+    second: RedOpen_31
+  - first:
+      213: -979844845282480340
+    second: RedOpen_32
+  - first:
+      213: 8788987132353772540
+    second: RedOpen_33
+  - first:
+      213: -4194798061206458933
+    second: RedOpen_34
+  - first:
+      213: -497347358989963163
+    second: RedOpen_35
+  - first:
+      213: 4995143332913663900
+    second: RedOpen_36
+  - first:
+      213: -5344980298310434551
+    second: RedOpen_37
+  - first:
+      213: 7876267400139883126
+    second: RedOpen_38
+  - first:
+      213: 3507146352775356996
+    second: RedOpen_39
+  - first:
+      213: 8293389477504789822
+    second: RedOpen_40
+  - first:
+      213: -418413680605349892
+    second: RedOpen_41
+  - first:
+      213: -3804241428029081543
+    second: RedOpen_42
+  - first:
+      213: -3141121590856469316
+    second: RedOpen_43
+  - first:
+      213: 6892815694594817706
+    second: RedOpen_44
+  - first:
+      213: -8560511955356743221
+    second: RedOpen_45
+  - first:
+      213: 8348759726630669783
+    second: RedOpen_46
+  - first:
+      213: 3228662308113336271
+    second: RedOpen_47
+  - first:
+      213: -7984645490102714953
+    second: RedOpen_48
+  - first:
+      213: -4087096616891823650
+    second: RedOpen_49
+  - first:
+      213: -4000049160929556836
+    second: RedOpen_50
+  - first:
+      213: 1620570732568086569
+    second: RedOpen_51
+  - first:
+      213: 6812229632582940533
+    second: RedOpen_52
+  - first:
+      213: -7012099265356357804
+    second: RedOpen_53
+  - first:
+      213: -5220404748493796928
+    second: RedOpen_54
+  - first:
+      213: 4672405948406879337
+    second: RedOpen_55
+  - first:
+      213: 8860382070281023767
+    second: RedOpen_56
+  - first:
+      213: 8531935066840517481
+    second: RedOpen_57
+  - first:
+      213: -3053552616118805845
+    second: RedOpen_58
+  - first:
+      213: -7000844696119179236
+    second: RedOpen_59
+  - first:
+      213: -5959563097941030302
+    second: RedOpen_60
+  - first:
+      213: 7752131264973451799
+    second: RedOpen_61
+  - first:
+      213: 651835878242017259
+    second: RedOpen_62
+  - first:
+      213: 3502316703210184658
+    second: RedOpen_63
+  - first:
+      213: 7429505116932593446
+    second: RedOpen_64
+  - first:
+      213: -9185788880939206007
+    second: RedOpen_65
+  - first:
+      213: 1893622985395043600
+    second: RedOpen_66
+  - first:
+      213: 7615248100993454680
+    second: RedOpen_67
+  - first:
+      213: 3443270314016579549
+    second: RedOpen_68
+  - first:
+      213: -117632848417879577
+    second: RedOpen_69
+  - first:
+      213: 9171182219658141583
+    second: RedOpen_70
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 600
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedOpen_0
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 896
+        width: 259
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d16443609ec014dab1cc56bfd3982b
+      internalID: -6896023458539759870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_1
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 896
+        width: 259
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b916c0c26a206694cbc5f409c7ce18d3
+      internalID: -6939821043935411937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_2
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 896
+        width: 260
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e98ca141a6cb84e874f22f7f0c27c3
+      internalID: 4656004813759936798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_3
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 896
+        width: 260
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb8dae5d03012544af2126fd2bb2932
+      internalID: -2002378608004994742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_4
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 896
+        width: 260
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23afc400ed897704b93246189ed60cab
+      internalID: -5104178700085911178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_5
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 896
+        width: 260
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c0130d75516794fa791c3681cdbf0b
+      internalID: 5599452494951678942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_6
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 896
+        width: 259
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2698d8bd05591c245831ccbf234666c3
+      internalID: -1977248801787118533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_7
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 896
+        width: 259
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121af925e889b5e49acbc8ee71962109
+      internalID: -4640550086274471601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_8
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 735
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397b808e9eec0d642b34e829c55f7725
+      internalID: 3996779834353434890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_9
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 408
+        width: 643
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b520ecca9feb3429368a06de4ecd3e
+      internalID: 8919131618683283610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_10
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 408
+        width: 644
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61248fc1de9b8c458ce93880e5d8ab1
+      internalID: -9166210286757468173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_11
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 408
+        width: 642
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2feb06a97508d5e42baa8b2516bc1159
+      internalID: 1912858626933127017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_12
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 672
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73deb05b03ed7fd44aa2bbdfaf8cd5cd
+      internalID: 7633944816836766158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_13
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 604
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39356b87b8da9349ae32907df6abd7b
+      internalID: 676014392410915139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_14
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 566
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b825e96ca01b3964b8aa512eb312cbf7
+      internalID: 1790974499309287471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_15
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 532
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8ea73c67809ac458ccf232464a7446
+      internalID: -4979508809452801526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_16
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 494
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f344893f8ee764284f7895043c3c70
+      internalID: -7071663594390117003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_17
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 385
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bf69f3094d4694f972a2ccca0b86b5
+      internalID: -2972853801546740736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_18
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 385
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40db072b1e71f5f4db8e5b048ce2142a
+      internalID: 2657325391233442882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_19
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 385
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96e1c48a867d1646be42ce04410f0e6
+      internalID: -8558492587396201857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_20
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 385
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ea02ceeccf3ce4fb81dc7be66f4816
+      internalID: -3663069533713964876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_21
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 385
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8785f3746b0544ea18d002d2437736
+      internalID: -8054080348021129114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_22
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 385
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb75cac321d6f0d419f13c622a703a75
+      internalID: -8999518604447636662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_23
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 385
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fda775a672f0745b55c908f821cdce
+      internalID: -4238890065449421274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_24
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 385
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f85cab632157342aae66b09a459109
+      internalID: 4821358356164136615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_25
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 385
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f03b11f90e13a4a8fc3fde1b3fdcc8
+      internalID: 5432553179174189549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_26
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 385
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb73d697e6140049bb7baa8bc03de31
+      internalID: 554194696869550665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_27
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 385
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b4ea363609c324d9600a5540ec164e
+      internalID: -6250108225116862875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_28
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 385
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09af21274f153cd468d32019b1666a47
+      internalID: 2520831114469116067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_29
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 385
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f9a80fd27ddba4192950f70c42e901
+      internalID: 5253527336617137021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_30
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 385
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58da5cdbd7c1ae7458c05e9b245e725d
+      internalID: -8512605183651892227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_31
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 385
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47427b55c2da96247a6332729f136cc6
+      internalID: 8688072982812111491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_32
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 385
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7104f7c5989894f9e153af600fe865
+      internalID: -979844845282480340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_33
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 385
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f271eb773332e4ebe73e3833014d05
+      internalID: 8788987132353772540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_34
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 385
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248e76c6863be5440b3aa8d3fc0ae382
+      internalID: -4194798061206458933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_35
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 385
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cd7f634375ef84f9b467119ad6f0b3
+      internalID: -497347358989963163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_36
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 385
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f3fc919891ece4184311ad8753cb77
+      internalID: 4995143332913663900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_37
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 385
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ee2b3940f79374b887b0a47aaa2255
+      internalID: -5344980298310434551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_38
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 385
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67503e7e9f53626459fceec77bf3f70c
+      internalID: 7876267400139883126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_39
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 385
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba56466d087fc045a01780404e7c0de
+      internalID: 3507146352775356996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_40
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 385
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91ad69ff013c3049a4b25e1829ef386
+      internalID: 8293389477504789822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_41
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 385
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e970c4eba4fa7742b4566967546b46b
+      internalID: -418413680605349892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_42
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 390
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0f24bf918412b42b80233c1e813828
+      internalID: -3804241428029081543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_43
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 385
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd18ca97cf011e7469495d30c2d956a9
+      internalID: -3141121590856469316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_44
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 381
+        width: 53
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4057ac1e009d65e498cf1da1ab9acdf5
+      internalID: 6892815694594817706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_45
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 385
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63e4f559afea684a8edb5a381960a3b
+      internalID: -8560511955356743221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_46
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 381
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa925c82fa05d274489cf8400a5c8209
+      internalID: 8348759726630669783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_47
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 385
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c018cb182567c488ced8dea03eb3d6
+      internalID: 3228662308113336271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_48
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 382
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ced48d968461ad48a77d9d33b3a128c
+      internalID: -7984645490102714953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_49
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 381
+        width: 58
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df14718d49aa884da8e32b76360b8b9
+      internalID: -4087096616891823650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_50
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 385
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e9e3a80ec27d742826f1baa5880e18
+      internalID: -4000049160929556836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_51
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 385
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4033a22764c16e945b0cc966f0977d86
+      internalID: 1620570732568086569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_52
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 385
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d761b74f3a36e0a4f85ada199ac4bccf
+      internalID: 6812229632582940533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_53
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 390
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74e89571cf490d4fb4f82cbc9bc4d18
+      internalID: -7012099265356357804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_54
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 385
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c5eea06a18d2d4b9de189d01ed62b1
+      internalID: -5220404748493796928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_55
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 390
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3266dcb3ca1c3419c40febb643e9fb
+      internalID: 4672405948406879337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_56
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 381
+        width: 65
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7390e3f825e5b9f4faabb8b830682780
+      internalID: 8860382070281023767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_57
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 381
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c13665754caed3439f0134009a559fd
+      internalID: 8531935066840517481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_58
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 385
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90444a6ac090a7243a146838c50c0fec
+      internalID: -3053552616118805845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_59
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 385
+        width: 51
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d118c271f8a77534fa7091cec19e1017
+      internalID: -7000844696119179236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_60
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 390
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7880061aab2744e98ca6ab890824e8
+      internalID: -5959563097941030302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_61
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 385
+        width: 74
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fac1f8bc2f42447936bd674525e567
+      internalID: 7752131264973451799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_62
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 385
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cdcd9bd8777f1469097e7c3232bf95
+      internalID: 651835878242017259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_63
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 385
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9001c741b67820c429c9165c68ef12e8
+      internalID: 3502316703210184658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_64
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 385
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70bbf8991196bf45ba865521d98c9e8
+      internalID: 7429505116932593446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_65
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 385
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52920637d86ed3244a8763a37b8805cc
+      internalID: -9185788880939206007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_66
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 385
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d01a817b6d2774e89ff1ed98cb6532
+      internalID: 1893622985395043600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_67
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 385
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb774f62e2887440bf394fe6d3d0ec3
+      internalID: 7615248100993454680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_68
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 385
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b467b56de5e1e51439e6e23cf20111f1
+      internalID: 3443270314016579549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_69
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 385
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dcbcad8090dd34aa73d81a0be1ee8f
+      internalID: -117632848417879577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedOpen_70
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 381
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a0d298e0ebb1a4191975e85c6b2a56
+      internalID: 9171182219658141583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cec5a68adbc77e7439589a6ca4028e95
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

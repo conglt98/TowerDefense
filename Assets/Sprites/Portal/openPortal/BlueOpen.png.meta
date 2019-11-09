@@ -1,0 +1,1838 @@
+fileFormatVersion: 2
+guid: 2af37c8e843b9424c8f7e2181cb5875b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2538075026429939685
+    second: BlueOpen_0
+  - first:
+      213: -4967761194222019085
+    second: BlueOpen_1
+  - first:
+      213: -4508769160695001426
+    second: BlueOpen_2
+  - first:
+      213: 7000869926481542297
+    second: BlueOpen_3
+  - first:
+      213: -697579708018333069
+    second: BlueOpen_4
+  - first:
+      213: -3880547914060848266
+    second: BlueOpen_5
+  - first:
+      213: -2219083577458171384
+    second: BlueOpen_6
+  - first:
+      213: -6550175422406272467
+    second: BlueOpen_7
+  - first:
+      213: -250932821660680916
+    second: BlueOpen_8
+  - first:
+      213: 211502455022111392
+    second: BlueOpen_9
+  - first:
+      213: 3297344649361165294
+    second: BlueOpen_10
+  - first:
+      213: -2295653435320175346
+    second: BlueOpen_11
+  - first:
+      213: -6444383319539404559
+    second: BlueOpen_12
+  - first:
+      213: 7303733100203895460
+    second: BlueOpen_13
+  - first:
+      213: 5537992630705420800
+    second: BlueOpen_14
+  - first:
+      213: 8848085715786679936
+    second: BlueOpen_15
+  - first:
+      213: 2065690075295904148
+    second: BlueOpen_16
+  - first:
+      213: 8503876128817860202
+    second: BlueOpen_17
+  - first:
+      213: -5450468959832071445
+    second: BlueOpen_18
+  - first:
+      213: 9148262995401755467
+    second: BlueOpen_19
+  - first:
+      213: 3649540109718273712
+    second: BlueOpen_20
+  - first:
+      213: -8309247036609016448
+    second: BlueOpen_21
+  - first:
+      213: -6983570092158584406
+    second: BlueOpen_22
+  - first:
+      213: 5569796684813812641
+    second: BlueOpen_23
+  - first:
+      213: -7510808767959698322
+    second: BlueOpen_24
+  - first:
+      213: 4806572698177841936
+    second: BlueOpen_25
+  - first:
+      213: -3237205106443345481
+    second: BlueOpen_26
+  - first:
+      213: 4975209941150587718
+    second: BlueOpen_27
+  - first:
+      213: 4402422620657333619
+    second: BlueOpen_28
+  - first:
+      213: 7963248180761663106
+    second: BlueOpen_29
+  - first:
+      213: -7436814008254797516
+    second: BlueOpen_30
+  - first:
+      213: 7988127223399733163
+    second: BlueOpen_31
+  - first:
+      213: -8870615870169663828
+    second: BlueOpen_32
+  - first:
+      213: 5176111261534514721
+    second: BlueOpen_33
+  - first:
+      213: -1185029612347242850
+    second: BlueOpen_34
+  - first:
+      213: 2274475132812568480
+    second: BlueOpen_35
+  - first:
+      213: 2955403173675408529
+    second: BlueOpen_36
+  - first:
+      213: -4882107521397700722
+    second: BlueOpen_37
+  - first:
+      213: 3969380231815922016
+    second: BlueOpen_38
+  - first:
+      213: 9091939493480043625
+    second: BlueOpen_39
+  - first:
+      213: 1244599234299646468
+    second: BlueOpen_40
+  - first:
+      213: 8680927816441182491
+    second: BlueOpen_41
+  - first:
+      213: 7573688033742700814
+    second: BlueOpen_42
+  - first:
+      213: 3169162853393927706
+    second: BlueOpen_43
+  - first:
+      213: 2131518603100753957
+    second: BlueOpen_44
+  - first:
+      213: -2714316256971429045
+    second: BlueOpen_45
+  - first:
+      213: -5183777293008739573
+    second: BlueOpen_46
+  - first:
+      213: -8811099233188516833
+    second: BlueOpen_47
+  - first:
+      213: 151944915282468743
+    second: BlueOpen_48
+  - first:
+      213: -6048049291814618636
+    second: BlueOpen_49
+  - first:
+      213: 7481982600979544346
+    second: BlueOpen_50
+  - first:
+      213: 8247855408679865137
+    second: BlueOpen_51
+  - first:
+      213: -4739856271414735521
+    second: BlueOpen_52
+  - first:
+      213: -5959661600192945186
+    second: BlueOpen_53
+  - first:
+      213: 1333104587007349397
+    second: BlueOpen_54
+  - first:
+      213: 2421002106014419280
+    second: BlueOpen_55
+  - first:
+      213: 1432213653793909383
+    second: BlueOpen_56
+  - first:
+      213: 5999351496289274350
+    second: BlueOpen_57
+  - first:
+      213: -1291807876360020003
+    second: BlueOpen_58
+  - first:
+      213: 1468947843963745473
+    second: BlueOpen_59
+  - first:
+      213: 953648654951515349
+    second: BlueOpen_60
+  - first:
+      213: 4755677318267256096
+    second: BlueOpen_61
+  - first:
+      213: 3782462188864307796
+    second: BlueOpen_62
+  - first:
+      213: -7264013155563933620
+    second: BlueOpen_63
+  - first:
+      213: 2136022295146049888
+    second: BlueOpen_64
+  - first:
+      213: -3903933979871946121
+    second: BlueOpen_65
+  - first:
+      213: -1649707935280378222
+    second: BlueOpen_66
+  - first:
+      213: -3497834948814614645
+    second: BlueOpen_67
+  - first:
+      213: 7888359789104182616
+    second: BlueOpen_68
+  - first:
+      213: 1619907886529473233
+    second: BlueOpen_69
+  - first:
+      213: 7777522853601227622
+    second: BlueOpen_70
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 600
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlueOpen_0
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 896
+        width: 259
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d4fcab76ff8ef42847377ff79fd13c
+      internalID: -2538075026429939685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_1
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 896
+        width: 259
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a964e3a6bbd0619409bfef712f077a5f
+      internalID: -4967761194222019085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_2
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 896
+        width: 260
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fcd4d6f860ecb45ac23225a6139568
+      internalID: -4508769160695001426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_3
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 896
+        width: 260
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2654ecc2e759d524699b5f3e29a6ae69
+      internalID: 7000869926481542297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_4
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 896
+        width: 260
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed0062a7afc9ef45b7f85c525bfaf7d
+      internalID: -697579708018333069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_5
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 896
+        width: 260
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f5cbc99d189254894825b5fa9671f0
+      internalID: -3880547914060848266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_6
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 896
+        width: 259
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6a0f497567ebf428b662c1d43d9502
+      internalID: -2219083577458171384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_7
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 896
+        width: 259
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee952763e4deb54e828560ea252fbee
+      internalID: -6550175422406272467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_8
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 735
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db54e462f1027514e8bab139b0fad7e4
+      internalID: -250932821660680916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_9
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 408
+        width: 643
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20f54073bf789a43bfe35a3206c2954
+      internalID: 211502455022111392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_10
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 408
+        width: 644
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a393254dc08d74d93c3280120bda6b
+      internalID: 3297344649361165294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_11
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 408
+        width: 642
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42eb06c0cbe3036438c5b2b49681d3ee
+      internalID: -2295653435320175346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_12
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 672
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8db99055d97a844a3086bc2421c2ef
+      internalID: -6444383319539404559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_13
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 604
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8609e300439598942b874141c1125116
+      internalID: 7303733100203895460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_14
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 566
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91df3c533b5b09b40baa509fe3d1c19a
+      internalID: 5537992630705420800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_15
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 532
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ba53fe3643e8b4ab25402f6646a43a
+      internalID: 8848085715786679936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_16
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 494
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2b582f19d783f49805a85cdb34d684
+      internalID: 2065690075295904148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_17
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 385
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6e387fb96d80f41b518505287a9cdb
+      internalID: 8503876128817860202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_18
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 385
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a819242e3fcfd4284d03c788241581
+      internalID: -5450468959832071445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_19
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 385
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cee8d2a0a123947bf2377543197fa4
+      internalID: 9148262995401755467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_20
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 385
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ed2a8d6365a144cb4c1fbbeb4a9917
+      internalID: 3649540109718273712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_21
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 385
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc00de1356dd2b40bb061f7c9f938e4
+      internalID: -8309247036609016448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_22
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 385
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3a09a4b4c3cd245a08329b89d73d3f
+      internalID: -6983570092158584406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_23
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 385
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a057d5a6a07cac54db1f08d4e61993ed
+      internalID: 5569796684813812641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_24
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 385
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b05b66a6fafdf4fb90dd1e41e2e40c
+      internalID: -7510808767959698322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_25
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 385
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4a5c38421908d4eaa832170adb1962
+      internalID: 4806572698177841936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_26
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 385
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba6ad308b478004a98e6cdd344f7ede
+      internalID: -3237205106443345481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_27
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 385
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab8de8ad4aa81540959a83919774fce
+      internalID: 4975209941150587718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_28
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 385
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afc425c095a6014fa8dec614b385761
+      internalID: 4402422620657333619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_29
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 385
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34abf8099789d5c4c8e5dd26278f2f46
+      internalID: 7963248180761663106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_30
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 385
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f5127e4f8944d43bdb08aee3d37a50
+      internalID: -7436814008254797516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_31
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 385
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7cd5b4ca6dd334998f64e1b653d652
+      internalID: 7988127223399733163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_32
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 385
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b14d986d662724e943823ac41c5c80
+      internalID: -8870615870169663828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_33
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 385
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7e93ad84672144191a18f747ce8a03
+      internalID: 5176111261534514721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_34
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 385
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf80ac8426e6c74b82756fcf23dc258
+      internalID: -1185029612347242850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_35
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 385
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab09c06bc455684d8c3df446ac4741a
+      internalID: 2274475132812568480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_36
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 385
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d719e1d20527be64f82bdd7a7ff6169a
+      internalID: 2955403173675408529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_37
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 385
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22058cac8fef631449da63f0b8368468
+      internalID: -4882107521397700722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_38
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 385
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73d2d08ae2d3b545b121b41c0649bd5
+      internalID: 3969380231815922016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_39
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 385
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9eda66320c27c41b30065244165280
+      internalID: 9091939493480043625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_40
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 385
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71521288ec1d54b4597e3d9a91cbb3e0
+      internalID: 1244599234299646468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_41
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 385
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17f5869df7518a44b315ae095b403ce
+      internalID: 8680927816441182491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_42
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 390
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd326141b35006b489f67e247d97cfbb
+      internalID: 7573688033742700814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_43
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 385
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d88eaa4e63ced4590b3e8d4fcbe18f
+      internalID: 3169162853393927706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_44
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 381
+        width: 53
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018340fcbc0ce08479579fba672e30a0
+      internalID: 2131518603100753957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_45
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 385
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85524b994cbecba42a30f2e14379c927
+      internalID: -2714316256971429045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_46
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 381
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e736879d17eddc7429377a38b0af14cd
+      internalID: -5183777293008739573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_47
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 385
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3612019547b9c418b0f00a738ac097
+      internalID: -8811099233188516833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_48
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 382
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cc936416d2b70488bf0737cd161fda
+      internalID: 151944915282468743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_49
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 381
+        width: 58
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf425a3f7a43c3b4b99b4e4f3a1d147b
+      internalID: -6048049291814618636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_50
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 385
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ba526f94f3f6047a60f60c17e459e4
+      internalID: 7481982600979544346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_51
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 385
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1599f7f6a1dd3b42abdae613a451597
+      internalID: 8247855408679865137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_52
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 385
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4307a029358ffb641b645f279d8e00af
+      internalID: -4739856271414735521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_53
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 390
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc96e639a642ad4ba8df5392cbfdfdc
+      internalID: -5959661600192945186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_54
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 385
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e38006960cb794385a4ce591746393
+      internalID: 1333104587007349397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_55
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 390
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805e323758b37924cbfc7a2cd2e1df0b
+      internalID: 2421002106014419280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_56
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 381
+        width: 65
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3916f5f4e6430ca4c8cf375632e76350
+      internalID: 1432213653793909383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_57
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 381
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6182a30fc961ad44f8ffdf3b5cba240b
+      internalID: 5999351496289274350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_58
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 385
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66453ee3ce688bf48b415dd061f646e0
+      internalID: -1291807876360020003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_59
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 385
+        width: 51
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a9db42a4332834cb4890fec6e8db97
+      internalID: 1468947843963745473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_60
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 390
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d4a7f0a64971d4189e14416299d53b
+      internalID: 953648654951515349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_61
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 385
+        width: 74
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65acb94f086ddd44a967bb403f550c7
+      internalID: 4755677318267256096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_62
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 385
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281435d20ede1564f81cc6f06c390938
+      internalID: 3782462188864307796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_63
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 385
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce068f79f2b68ff4abc8959bf9561439
+      internalID: -7264013155563933620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_64
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 385
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8fa4d33b0112747a4a9785832fcdd3
+      internalID: 2136022295146049888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_65
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 385
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a03fb8d81feb249914e8a675cfa133
+      internalID: -3903933979871946121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_66
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 385
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d278d7e00b4927240a0a86af65a92708
+      internalID: -1649707935280378222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_67
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 385
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e1dc9002542204f9b33425af8c6a63
+      internalID: -3497834948814614645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_68
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 385
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e9a08fd0fb9d84a806f6bf3d93e352
+      internalID: 7888359789104182616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_69
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 385
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a088cafdeab1bb4ea6d238b8220ca75
+      internalID: 1619907886529473233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueOpen_70
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 381
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56858037fad9ade44a6317409d93ce4b
+      internalID: 7777522853601227622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6ad5fe645ba8d074f8912de326c1bde7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
