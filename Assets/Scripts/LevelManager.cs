@@ -11,6 +11,9 @@ public class LevelManager : Singleton<LevelManager>
     [SerializeField]
     private CameraMovement cameraMovement;
 
+    [SerializeField]
+    private Transform map;
+
     private Point blueSpawn, redSpawn;
 
     [SerializeField]
@@ -21,13 +24,21 @@ public class LevelManager : Singleton<LevelManager>
 
     public Portal BluePortal { get; set; }
 
-    private Point mapSize; 
+    private Point mapSize;
 
+    private Stack<Node> path;
 
-    [SerializeField]
-    private Transform map;
-
-
+    public Stack<Node> Path
+    {
+        get
+        {
+            if(path == null)
+            {
+                GeneratePath();
+            }
+            return new Stack<Node>(new Stack<Node>(path));
+        }
+    }
 
     public Dictionary<Point, TileScript> Tiles { get; set; }
 
@@ -42,8 +53,6 @@ public class LevelManager : Singleton<LevelManager>
     {
 
         CreateLevel();
-
-       
 
     }
 
@@ -131,4 +140,8 @@ public class LevelManager : Singleton<LevelManager>
             && position.Y < mapSize.Y;
     }
 
+    public void GeneratePath()
+    {
+        path = Astar.GetPath(blueSpawn, redSpawn);
+    }
 }

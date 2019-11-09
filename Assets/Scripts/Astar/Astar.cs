@@ -18,7 +18,7 @@ public class Astar
         }
     }
 
-    public static void GetPath(Point start, Point goal)
+    public static Stack<Node> GetPath(Point start, Point goal)
     {
         if (nodes == null)
         {
@@ -99,8 +99,10 @@ public class Astar
             }
         }
 
+        return finalPath;
+
         //DEBUG
-        GameObject.Find("AstarDebugger").GetComponent<AstarDebugger>().DebugPath(openList, closedList, finalPath);
+        //GameObject.Find("AstarDebugger").GetComponent<AstarDebugger>().DebugPath(openList, closedList, finalPath);
 
     }
 

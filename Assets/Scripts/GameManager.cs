@@ -77,6 +77,8 @@ public class GameManager : Singleton<GameManager>
 
     private IEnumerator SpawnWave()
     {
+        LevelManager.Instance.GeneratePath();
+
         int monterIndex = Random.Range(0, 4);
 
         string type = string.Empty;
