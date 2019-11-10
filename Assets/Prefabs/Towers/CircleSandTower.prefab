@@ -110,6 +110,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   projectileType: CircleSandProjectile
+  projectileSpeed: 3
   attackCooldown: 3
 --- !u!1 &8390200162850982197
 GameObject:

@@ -110,6 +110,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   projectileType: StoneProjectile
+  projectileSpeed: 3
   attackCooldown: 3
 --- !u!1 &3582915043997056798
 GameObject:
