@@ -201,7 +201,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 51233565}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1061194410}
+        m_MethodName: QuitGame
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &51233565
@@ -1220,8 +1231,8 @@ GameObject:
   m_Component:
   - component: {fileID: 763081021}
   - component: {fileID: 763081024}
-  - component: {fileID: 763081023}
   - component: {fileID: 763081022}
+  - component: {fileID: 763081023}
   m_Layer: 5
   m_Name: Restart
   m_TagString: Untagged
@@ -1291,7 +1302,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 763081023}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1061194410}
+        m_MethodName: Restart
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &763081023
@@ -1626,7 +1648,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 10
+  m_Text: 0
 --- !u!222 &1057659035
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1695,9 +1717,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 137140b95e08c0e4197591cb1c170df9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  livesTxt: {fileID: 1057659034}
   waveTxt: {fileID: 1376590590}
   currencyTxt: {fileID: 1627991229}
   waveBtn: {fileID: 1994565859}
+  gameOverMenu: {fileID: 1835187878}
 --- !u!4 &1061194411
 Transform:
   m_ObjectHideFlags: 0
@@ -2891,7 +2915,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1835187879
 RectTransform:
   m_ObjectHideFlags: 0

@@ -129,6 +129,8 @@ public class Monster : MonoBehaviour
             StartCoroutine(Scale(new Vector3(0.2f, 0.2f), new Vector3(0.01f, 0.01f), true));
 
             other.GetComponent<Portal>().Open();
+
+            GameManager.Instance.Lives--;
         }
     }
 
