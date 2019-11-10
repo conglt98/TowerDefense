@@ -31,6 +31,12 @@ public class Projectile : MonoBehaviour
         if(target != null && target.IsActive)
         {
             transform.position = Vector3.MoveTowards(transform.position, target.transform.position, Time.deltaTime * parent.ProjectileSpeed);
+
+            Vector2 dir = target.transform.position - transform.position;
+
+            float angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;
+
+            transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward);
         }
         else if(!target.IsActive)
         {
