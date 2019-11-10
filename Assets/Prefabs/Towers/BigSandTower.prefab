@@ -109,6 +109,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c38c6f2882ec4754692b0c01bcb78ccc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  projectileType: BigSandProjectile
+  attackCooldown: 3
 --- !u!1 &2009368650943305446
 GameObject:
   m_ObjectHideFlags: 0
