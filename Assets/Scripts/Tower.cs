@@ -12,6 +12,9 @@ public class Tower : MonoBehaviour
 
     private Animator myAnimator;
 
+    [SerializeField]
+    private int damage;
+
     public float ProjectileSpeed
     {
         get
@@ -31,6 +34,8 @@ public class Tower : MonoBehaviour
             return target;
         }
     }
+
+    public int Damage { get => damage; }
 
     private Queue<Monster> monsters = new Queue<Monster>();
 
@@ -52,7 +57,7 @@ public class Tower : MonoBehaviour
     void Update()
     {
         Attack();
-        Debug.Log(target);
+        //Debug.Log(target);
     }
 
     public void Select()

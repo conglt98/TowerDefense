@@ -27,17 +27,48 @@ public class BarScript : MonoBehaviour
 
     public float MaxValue { get; set; }
 
-    private float currentTime;
-
-    // Start is called before the first frame update
-    void Start()
+    public float Value
     {
-        
+        set
+        {
+            fillAmount = Map(value, 0, MaxValue, 0, 1);
+           
+        }
     }
 
-    // Update is called once per frame
+    private float currentTime;
+
+    void Start()
+    {
+        if (lerpColors)
+        {
+            content.color = fullColor;
+        }
+    }
+
     void Update()
     {
-        
+        HandleBar();
+    }
+
+    private void HandleBar()
+    {
+
+        if (fillAmount != content.fillAmount)
+        {
+            Debug.Log("change amount...");
+            content.fillAmount = Mathf.Lerp(content.fillAmount,fillAmount,Time.deltaTime*lerpSpeed);
+        }
+
+        if (lerpColors)
+        {
+            content.color = Color.Lerp(lowColor, fullColor, fillAmount);
+
+        }
+    }
+
+    private float Map(float value, float inMin, float inMax, float outMin,float outMax)
+    {
+        return (value - inMin) * (outMax - outMin) / (inMax - inMin) + outMin;        
     }
 }

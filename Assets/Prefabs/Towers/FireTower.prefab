@@ -111,6 +111,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   projectileType: FireProjectile
   projectileSpeed: 3
+  damage: 3
   attackCooldown: 3
 --- !u!1 &4517406168037467923
 GameObject:
