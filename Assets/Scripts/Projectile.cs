@@ -8,10 +8,12 @@ public class Projectile : MonoBehaviour
 
     private Tower parent;
 
+    private Animator myAnimator;
+
     // Start is called before the first frame update
     void Start()
     {
-        
+        myAnimator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -51,7 +53,8 @@ public class Projectile : MonoBehaviour
             if (target.gameObject == other.gameObject)
             {
                 target.TakeDamage(parent.Damage);
-                GameManager.Instance.Pool.ReleaseObject(gameObject);
+
+                myAnimator.SetTrigger("Impact");
             }
         }     
     }
