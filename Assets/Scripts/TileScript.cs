@@ -7,7 +7,7 @@ public class TileScript : MonoBehaviour
 {
     public Point GridPosition { get; private set; }
 
-    public bool IsEmpty { get; private set; }
+    public bool IsEmpty { get; set; }
 
     private Tower myTower;
 
@@ -113,6 +113,8 @@ public class TileScript : MonoBehaviour
 
         IsEmpty = false;
         ColorTile(Color.white);
+
+        myTower.Price = GameManager.Instance.ClickedBtn.Price;
 
         GameManager.Instance.BuyTower();
 

@@ -111,7 +111,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   projectileType: BigSandProjectile
   projectileSpeed: 3
-  damage: 1
+  damage: 2
   attackCooldown: 3
 --- !u!1 &2009368650943305446
 GameObject:

@@ -15,6 +15,8 @@ public class Tower : MonoBehaviour
     [SerializeField]
     private int damage;
 
+    public int Price { get; set; }
+
     public float ProjectileSpeed
     {
         get
