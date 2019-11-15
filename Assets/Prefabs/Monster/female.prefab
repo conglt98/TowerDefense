@@ -296,23 +296,13 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6277666348318856819, guid: 12baf227b2409dd4f87548425fd0aee6,
         type: 3}
-      propertyPath: lerpSpeed
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 6277666348318856819, guid: 12baf227b2409dd4f87548425fd0aee6,
-        type: 3}
-      propertyPath: lerpColors
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6277666348318856819, guid: 12baf227b2409dd4f87548425fd0aee6,
-        type: 3}
       propertyPath: content
       value: 
       objectReference: {fileID: 816329020395893121}
     - target: {fileID: 6277666348318856819, guid: 12baf227b2409dd4f87548425fd0aee6,
         type: 3}
-      propertyPath: fillAmount
-      value: 1
+      propertyPath: lerpSpeed
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 8933815702878845987, guid: 12baf227b2409dd4f87548425fd0aee6,
         type: 3}
@@ -323,11 +313,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_FillMethod
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8933815702878845987, guid: 12baf227b2409dd4f87548425fd0aee6,
-        type: 3}
-      propertyPath: m_FillAmount
-      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 12baf227b2409dd4f87548425fd0aee6, type: 3}

@@ -26,7 +26,7 @@ public class Stat
         {
 
             this.currentVal = Mathf.Clamp(value,0,MaxVal);
-            bar.Value = currentVal;
+            Bar.Value = currentVal;
             
         }
     }
@@ -45,7 +45,9 @@ public class Stat
         set
         {
             this.maxVal = value;
-            bar.MaxValue = maxVal;
+            Bar.MaxValue = maxVal;
         }
     }
+
+    public BarScript Bar { get => bar; }
 }

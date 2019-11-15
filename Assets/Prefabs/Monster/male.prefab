@@ -304,11 +304,6 @@ PrefabInstance:
       propertyPath: lerpSpeed
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 6277666348318856819, guid: 12baf227b2409dd4f87548425fd0aee6,
-        type: 3}
-      propertyPath: fillAmount
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 8933815702878845987, guid: 12baf227b2409dd4f87548425fd0aee6,
         type: 3}
       propertyPath: m_Type

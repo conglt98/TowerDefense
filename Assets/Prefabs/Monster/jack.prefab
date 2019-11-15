@@ -301,11 +301,6 @@ PrefabInstance:
       objectReference: {fileID: 272879587617818753}
     - target: {fileID: 6277666348318856819, guid: 12baf227b2409dd4f87548425fd0aee6,
         type: 3}
-      propertyPath: fillAmount
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6277666348318856819, guid: 12baf227b2409dd4f87548425fd0aee6,
-        type: 3}
       propertyPath: lerpSpeed
       value: 2
       objectReference: {fileID: 0}
