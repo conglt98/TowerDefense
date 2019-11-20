@@ -8,4 +8,9 @@ public class CircleSandTower : Tower
     {
         ElementType = Element.CIRCLESAND;
     }
+
+    public override Debuff GetDebuff()
+    {
+        return new CircleSandDebuff(Target);
+    }
 }

@@ -33,7 +33,7 @@ public class Projectile : MonoBehaviour
 
     private void MoveToTarget()
     {
-        if(target != null && target.IsActive)
+        if (target != null && target.IsActive)
         {
             transform.position = Vector3.MoveTowards(transform.position, target.transform.position, Time.deltaTime * parent.ProjectileSpeed);
 
@@ -43,11 +43,17 @@ public class Projectile : MonoBehaviour
 
             transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward);
         }
-        else if(!target.IsActive)
+        else if (!target.IsActive)
         {
             GameManager.Instance.Pool.ReleaseObject(gameObject);
         }
     }
+
+    private void ApplyDebuff()
+    {
+        target.AddDebuff(parent.GetDebuff());
+    }
+
 
     private void OnTriggerEnter2D (Collider2D other)
     {
@@ -55,8 +61,10 @@ public class Projectile : MonoBehaviour
         {
             if (target.gameObject == other.gameObject)
             {
-                myAnimator.SetTrigger("Impact");
                 target.TakeDamage(parent.Damage,elementType);
+                myAnimator.SetTrigger("Impact");
+
+                ApplyDebuff();
             }
         }     
     }

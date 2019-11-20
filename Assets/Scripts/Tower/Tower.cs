@@ -83,12 +83,12 @@ public abstract class Tower : MonoBehaviour
             }
         }
 
-        if(target == null && monsters.Count > 0)
+        if (target == null && monsters.Count > 0)
         {
             target = monsters.Dequeue();
 
         }
-        if(target != null && target.IsActive)
+        if (target != null && target.IsActive)
         {
             if (canAttack)
             {
@@ -98,7 +98,7 @@ public abstract class Tower : MonoBehaviour
 
                 canAttack = false;
             }
-        }else if (monsters.Count > 0)
+        } else if (monsters.Count > 0)
         {
             target = monsters.Dequeue();
         }
@@ -119,11 +119,13 @@ public abstract class Tower : MonoBehaviour
 
     public void OnTriggerEnter2D(Collider2D other)
     {
-        if(other.tag == "Monster")
+        if (other.tag == "Monster")
         {
             monsters.Enqueue(other.GetComponent<Monster>());
         }
     }
+
+    public abstract Debuff GetDebuff();
 
     public void OnTriggerExit2D(Collider2D other)
     {

@@ -8,4 +8,9 @@ public class BigSandTower : Tower
     {
         ElementType = Element.BIGSAND;
     }
+
+    public override Debuff GetDebuff()
+    {
+        return new BigSandDebuff(Target);
+    }
 }

@@ -8,4 +8,9 @@ public class StoneTower : Tower
     {
         ElementType = Element.STONE;
     }
+
+    public override Debuff GetDebuff()
+    {
+        return new StoneDebuff(Target);
+    }
 }

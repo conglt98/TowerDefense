@@ -9,10 +9,14 @@ public class Monster : MonoBehaviour
 
     private Stack<Node> path;
 
+    private List<Debuff> debuffs = new List<Debuff>();
+
     [SerializeField]
     private Element elementType;
 
     private SpriteRenderer spriteRenderer;
+
+    private int invulnerability = 2;
 
     protected Animator myAnimator;
 
@@ -39,6 +43,7 @@ public class Monster : MonoBehaviour
 
     private void Update()
     {
+        HandleDebuffs();
         Move();
     }
 
@@ -62,7 +67,7 @@ public class Monster : MonoBehaviour
 
         float progress = 0;
 
-        while(progress <= 1)
+        while (progress <= 1)
         {
             transform.localScale = Vector3.Lerp(from, to, progress);
 
@@ -101,7 +106,7 @@ public class Monster : MonoBehaviour
 
     private void SetPath(Stack<Node> newPath)
     {
-        if(newPath != null)
+        if (newPath != null)
         {
             this.path = newPath;
 
@@ -116,13 +121,13 @@ public class Monster : MonoBehaviour
 
     public void Animate(Point currentPos, Point newPos)
     {
-        if(currentPos.Y > newPos.Y)
+        if (currentPos.Y > newPos.Y)
         {
             //Moving down
             myAnimator.SetInteger("Horizontal", 0);
             myAnimator.SetInteger("Vertical", 1);
         }
-        else if(currentPos.Y < newPos.Y)
+        else if (currentPos.Y < newPos.Y)
         {
             //Moving up
             myAnimator.SetInteger("Horizontal", 0);
@@ -130,13 +135,13 @@ public class Monster : MonoBehaviour
         }
         else if (currentPos.Y == newPos.Y)
         {
-            if(currentPos.X > newPos.X)
+            if (currentPos.X > newPos.X)
             {
                 //Moving left
                 myAnimator.SetInteger("Horizontal", -1);
                 myAnimator.SetInteger("Vertical", 0);
             }
-            else if(currentPos.X < newPos.X)
+            else if (currentPos.X < newPos.X)
             {
                 //Moving right
                 myAnimator.SetInteger("Horizontal", 1);
@@ -147,7 +152,7 @@ public class Monster : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if(other.tag == "RedPortal")
+        if (other.tag == "RedPortal")
         {
             StartCoroutine(Scale(new Vector3(0.2f, 0.2f), new Vector3(0.01f, 0.01f), true));
 
@@ -172,9 +177,15 @@ public class Monster : MonoBehaviour
 
     public void TakeDamage(int damage, Element dmgSource)
     {
-        
+
         if (IsActive)
         {
+            if (dmgSource == elementType)
+            {
+                damage = damage / invulnerability;
+                invulnerability++;
+            }
+
             health.CurrentValue -= damage;
 
             if (health.CurrentValue <= 0)
@@ -186,6 +197,22 @@ public class Monster : MonoBehaviour
 
                 GetComponent<SpriteRenderer>().sortingOrder--;
             }
+        }
+    }
+
+    public void AddDebuff(Debuff debuff)
+    {
+        if (!debuffs.Exists(x => x.GetType() == debuff.GetType()))
+        {
+            debuffs.Add(debuff);
+        }
+    }
+
+    private void HandleDebuffs()
+    {
+        foreach (Debuff debuff in debuffs)
+        {
+            debuff.Update();
         }
     }
 }
