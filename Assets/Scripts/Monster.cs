@@ -60,8 +60,6 @@ public class Monster : MonoBehaviour
     public void Spawn(int health)
     {
         
-        debuffs.Clear();
-
         transform.position = LevelManager.Instance.BluePortal.transform.position;
         this.health.Bar.Reset();
         this.health.MaxVal = health;
