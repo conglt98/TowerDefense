@@ -9,6 +9,9 @@ public class Monster : MonoBehaviour
 
     private Stack<Node> path;
 
+    [SerializeField]
+    private Element elementType;
+
     private SpriteRenderer spriteRenderer;
 
     protected Animator myAnimator;
@@ -167,7 +170,7 @@ public class Monster : MonoBehaviour
         GameManager.Instance.RemoveMonster(this);
     }
 
-    public void TakeDamage(int damage)
+    public void TakeDamage(int damage, Element dmgSource)
     {
         
         if (IsActive)

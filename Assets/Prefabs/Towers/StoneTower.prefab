@@ -106,12 +106,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 247146212}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c38c6f2882ec4754692b0c01bcb78ccc, type: 3}
+  m_Script: {fileID: 11500000, guid: c055bf11dedbfbe46928d06d4a44ff83, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   projectileType: StoneProjectile
   projectileSpeed: 3
-  damage: 4
+  damage: 5
   attackCooldown: 3
 --- !u!1 &3582915043997056798
 GameObject:
