@@ -11,6 +11,6 @@ public class BigSandTower : Tower
 
     public override Debuff GetDebuff()
     {
-        return new BigSandDebuff(Target);
+        return new BigSandDebuff(Target, DebuffDuration);
     }
 }

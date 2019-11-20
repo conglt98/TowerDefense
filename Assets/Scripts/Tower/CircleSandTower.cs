@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class CircleSandTower : Tower
 {
+    [SerializeField]
+    private float slowingFactor;
+
     private void Start()
     {
         ElementType = Element.CIRCLESAND;
@@ -11,6 +14,6 @@ public class CircleSandTower : Tower
 
     public override Debuff GetDebuff()
     {
-        return new CircleSandDebuff(Target);
+        return new CircleSandDebuff(slowingFactor,DebuffDuration,Target);
     }
 }

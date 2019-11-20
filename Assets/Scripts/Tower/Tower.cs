@@ -17,6 +17,12 @@ public abstract class Tower : MonoBehaviour
     [SerializeField]
     private int damage;
 
+    [SerializeField]
+    private float debuffDuration;
+
+    [SerializeField]
+    private float proc;
+
     public Element ElementType { get; protected set; }
 
     public int Price { get; set; }
@@ -42,6 +48,9 @@ public abstract class Tower : MonoBehaviour
     }
 
     public int Damage { get => damage; }
+
+    public float DebuffDuration { get => debuffDuration; set => debuffDuration = value; }
+    public float Proc { get => proc; set => proc = value; }
 
     private Queue<Monster> monsters = new Queue<Monster>();
 

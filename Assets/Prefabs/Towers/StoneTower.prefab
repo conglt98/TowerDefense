@@ -111,8 +111,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   projectileType: StoneProjectile
   projectileSpeed: 3
-  damage: 5
-  attackCooldown: 3
+  damage: 10
+  debuffDuration: 5
+  proc: 100
+  attackCooldown: 5
+  tickTime: 5
+  splashPrefab: {fileID: 1429908246203445187, guid: 74a5acc1d874ea94388b47a47df27f03,
+    type: 3}
+  splashDamage: 5
 --- !u!1 &3582915043997056798
 GameObject:
   m_ObjectHideFlags: 0

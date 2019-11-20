@@ -4,11 +4,20 @@ using UnityEngine;
 
 public class BigSandDebuff : Debuff
 {
-    public BigSandDebuff(Monster target) : base(target)
-    {
-    }
-    public override void Update()
-    {
 
+    public BigSandDebuff(Monster target, float duration) : base(target, duration)
+    {
+        if (target != null)
+        {
+            target.Speed = 0;
+        }
+    }
+    public override void Remove()
+    {
+        if (target != null)
+        {
+            target.Speed = target.MaxSpeed;
+            base.Remove();
+        }
     }
 }

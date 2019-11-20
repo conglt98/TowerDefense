@@ -112,7 +112,11 @@ MonoBehaviour:
   projectileType: FireProjectile
   projectileSpeed: 3
   damage: 5
+  debuffDuration: 10
+  proc: 100
   attackCooldown: 3
+  tickTime: 1
+  tickDamage: 5
 --- !u!1 &4517406168037467923
 GameObject:
   m_ObjectHideFlags: 0

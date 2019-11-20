@@ -1249,7 +1249,7 @@ MonoBehaviour:
   towerPerfab: {fileID: 4517406168037467923, guid: 45aad5f91d1798245864bb932a6b6121,
     type: 3}
   sprite: {fileID: 7025651857757288288, guid: 1aef6d9e5a49ea14e8a4ea210ef0ca4d, type: 3}
-  price: 3
+  price: 2
   priceTxt: {fileID: 624390901}
 --- !u!1 &624390897
 GameObject:
@@ -2665,7 +2665,7 @@ MonoBehaviour:
   towerPerfab: {fileID: 3582915043997056798, guid: 7342d051e7f146c4c8243cf8d4b691cc,
     type: 3}
   sprite: {fileID: 4183446224265781417, guid: 1aef6d9e5a49ea14e8a4ea210ef0ca4d, type: 3}
-  price: 4
+  price: 2
   priceTxt: {fileID: 1454589866}
 --- !u!1 &1416509751
 GameObject:

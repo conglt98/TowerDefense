@@ -112,7 +112,10 @@ MonoBehaviour:
   projectileType: CircleSandProjectile
   projectileSpeed: 3
   damage: 5
+  debuffDuration: 5
+  proc: 100
   attackCooldown: 3
+  slowingFactor: 50
 --- !u!1 &8390200162850982197
 GameObject:
   m_ObjectHideFlags: 0
