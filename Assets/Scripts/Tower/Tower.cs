@@ -111,7 +111,7 @@ public abstract class Tower : MonoBehaviour
         {
             target = monsters.Dequeue();
         }
-        if (target != null && !target.Alive)
+        if (target != null && !target.Alive || target != null && !target.IsActive)
         {
             target = null;
         }
