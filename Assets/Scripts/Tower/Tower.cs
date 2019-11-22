@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public enum Element { BIGSAND,CIRCLESAND,FIRE,STONE,NONE}
+public enum Element { BIGSAND, CIRCLESAND, FIRE, STONE, NONE }
 
 public abstract class Tower : MonoBehaviour
 {
@@ -39,6 +39,8 @@ public abstract class Tower : MonoBehaviour
 
     private Monster target;
 
+    public int Level { get; set; }
+
     public Monster Target
     {
         get
@@ -61,11 +63,26 @@ public abstract class Tower : MonoBehaviour
     [SerializeField]
     private float attackCooldown;
 
+    public TowerUpgrade[] Upgrades { get; protected set; }
+
+    public TowerUpgrade NextUpgrade
+    {
+        get
+        {
+            if (Upgrades.Length > Level - 1)
+            {
+                return Upgrades[Level - 1]; 
+            }
+            return null;
+        }
+    }
+
     // Start is called before the first frame update
     void Awake()
     {
         myAnimator = transform.parent.GetComponent<Animator>();
         mySpriteRenderer = GetComponent<SpriteRenderer>();
+        Level = 1;
     }
 
     // Update is called once per frame
@@ -114,6 +131,16 @@ public abstract class Tower : MonoBehaviour
         }
     }
 
+    public virtual string GetStats()
+    {
+        if (NextUpgrade != null)
+        {
+            return string.Format("\nLevel: {0} \nDamage: {1} <color=#00ff00ff> +{4}</color>\nProc: {2}% <color=#00ff00ff>+{5}%</color>\nDebuff: {3}sec <color=#00ff00ff>+{6}</color>",Level,damage,proc,debuffDuration,NextUpgrade.Damage,NextUpgrade.ProcChance,NextUpgrade.DebuffDuration);
+        }
+
+        return string.Format("\nLevel: {0} \nDamage: {1} \nProc: {2}% \nDebuff: {3}sec", Level, damage, proc, debuffDuration);
+    }
+
     private void Shoot()
     {
         Projectile projectile = GameManager.Instance.Pool.GetObject(projectileType).GetComponent<Projectile>();
@@ -135,7 +162,7 @@ public abstract class Tower : MonoBehaviour
 
     public void OnTriggerExit2D(Collider2D other)
     {
-        if(other.tag == "Monster")
+        if (other.tag == "Monster")
         {
             target = null;
         }
