@@ -113,7 +113,7 @@ MonoBehaviour:
   projectileSpeed: 3
   damage: 5
   debuffDuration: 1
-  proc: 100
+  proc: 10
   attackCooldown: 3
 --- !u!1 &2009368650943305446
 GameObject:

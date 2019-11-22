@@ -113,7 +113,7 @@ MonoBehaviour:
   projectileSpeed: 3
   damage: 5
   debuffDuration: 5
-  proc: 100
+  proc: 10
   attackCooldown: 3
   slowingFactor: 50
 --- !u!1 &8390200162850982197

@@ -95,6 +95,7 @@ public abstract class Tower : MonoBehaviour
     public void Select()
     {
         mySpriteRenderer.enabled = !mySpriteRenderer.enabled;
+        GameManager.Instance.UpdateUpgradeTooltip();
     }
 
     private void Attack()
@@ -148,6 +149,18 @@ public abstract class Tower : MonoBehaviour
         projectile.transform.position = transform.position;
 
         projectile.Initialize(this);
+    }
+
+    public virtual void Upgrade()
+    {
+        GameManager.Instance.Currency -= NextUpgrade.Price;
+        Price += NextUpgrade.Price;
+
+        this.damage += NextUpgrade.Damage;
+        this.proc += NextUpgrade.ProcChance;
+        this.DebuffDuration += NextUpgrade.DebuffDuration;
+        Level++;
+        GameManager.Instance.UpdateUpgradeTooltip();
     }
 
     public void OnTriggerEnter2D(Collider2D other)

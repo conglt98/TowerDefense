@@ -49,6 +49,9 @@ public class GameManager : Singleton<GameManager>
     [SerializeField]
     private Text statTxt;
 
+    [SerializeField]
+    private Text upgradePrice;
+
     private Tower selectedTower;
 
     private List<Monster> activeMonsters = new List<Monster>();
@@ -60,13 +63,14 @@ public class GameManager : Singleton<GameManager>
         get
         {
             return activeMonsters.Count > 0;
-        } 
+        }
     }
 
     public int Currency
     {
         get { return currency; }
-        set {
+        set
+        {
             this.currency = value;
             this.currencyTxt.text = value.ToString() + " <color=lime>$</color>";
             OnCurrencyChanged();
@@ -100,7 +104,7 @@ public class GameManager : Singleton<GameManager>
     void Start()
     {
         Lives = 10;
-        Currency = 8;
+        Currency = 50;
     }
 
     // Update is called once per frame
@@ -113,7 +117,7 @@ public class GameManager : Singleton<GameManager>
 
     public void PickTower(TowerBtn towerBtn)
     {
-        if (Currency>= towerBtn.Price && !WaveActive)
+        if (Currency >= towerBtn.Price && !WaveActive)
         {
             this.ClickedBtn = towerBtn;
             Hover.Instance.Activate(towerBtn.Sprite);
@@ -122,12 +126,12 @@ public class GameManager : Singleton<GameManager>
 
     public void BuyTower()
     {
-        if (Currency>=ClickedBtn.Price)
+        if (Currency >= ClickedBtn.Price)
         {
             Currency -= ClickedBtn.Price;
             Hover.Instance.Deactivate();
         }
-        
+
     }
 
     public void OnCurrencyChanged()
@@ -140,27 +144,27 @@ public class GameManager : Singleton<GameManager>
 
     public void SelectTower(Tower tower)
     {
-        if(selectedTower != null)
+        if (selectedTower != null)
         {
             selectedTower.Select();
         }
         selectedTower = tower;
         selectedTower.Select();
 
-        sellText.text = "+ " + (selectedTower.Price/2).ToString();
+        sellText.text = "+ " + (selectedTower.Price / 2).ToString() +" $";
 
         upgradePanel.SetActive(true);
     }
 
     public void DeselectTower()
     {
-        if(selectedTower != null)
+        if (selectedTower != null)
         {
             selectedTower.Select();
         }
         upgradePanel.SetActive(false);
         selectedTower = null;
-        
+
     }
 
     private void HandleEscape()
@@ -186,7 +190,7 @@ public class GameManager : Singleton<GameManager>
     {
         LevelManager.Instance.GeneratePath();
 
-        for(int i = 0; i < wave; i++)
+        for (int i = 0; i < wave; i++)
         {
             int monterIndex = Random.Range(0, 4);
 
@@ -256,7 +260,7 @@ public class GameManager : Singleton<GameManager>
     {
         if (selectedTower != null)
         {
-            Currency += selectedTower.Price/2;
+            Currency += selectedTower.Price / 2;
 
             selectedTower.GetComponentInParent<TileScript>().IsEmpty = true;
 
@@ -269,7 +273,7 @@ public class GameManager : Singleton<GameManager>
     public void ShowStats()
     {
         statsPanel.SetActive(!statsPanel.activeSelf);
-        
+
     }
 
     public void ShowSelectedTowerStats()
@@ -281,14 +285,36 @@ public class GameManager : Singleton<GameManager>
     public void SetTooltipText(string txt)
     {
         statTxt.text = txt;
-        
+
     }
 
     public void UpdateUpgradeTooltip()
     {
         if (selectedTower != null)
         {
+            sellText.text = "+ " + (selectedTower.Price / 2).ToString() + " $";
+
             SetTooltipText(selectedTower.GetStats());
+
+            if (selectedTower.NextUpgrade!=null)
+            {
+                upgradePrice.text = selectedTower.NextUpgrade.Price.ToString()+ " $";
+            }
+            else
+            {
+                upgradePrice.text = string.Empty;
+            }
+        }
+    }
+
+    public void UpgradeTower()
+    {
+        if (selectedTower != null)
+        {
+            if (selectedTower.Level <= selectedTower.Upgrades.Length && Currency >= selectedTower.NextUpgrade.Price)
+            {
+                selectedTower.Upgrade();
+            }
         }
     }
 }

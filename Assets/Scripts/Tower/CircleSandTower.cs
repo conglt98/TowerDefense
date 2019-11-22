@@ -35,4 +35,10 @@ public class CircleSandTower : Tower
 
         return string.Format("<color=#00ffffff>{0}</color>{1} \nSlowing factor: {2}%", "<size=20><b>Circle Sand</b></size>", base.GetStats(), SlowingFactor);
     }
+
+    public override void Upgrade()
+    {
+        this.slowingFactor += NextUpgrade.SlowingFactor;
+        base.Upgrade();
+    }
 }

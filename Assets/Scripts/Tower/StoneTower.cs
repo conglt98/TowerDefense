@@ -42,4 +42,11 @@ public class StoneTower : Tower
 
         return string.Format("<color=#00ff00ff>{0}</color>{1} \nTick time: {2}\nSplash damage: {3}", "<size=20><b>Stone</b></size>", base.GetStats(), TickTime, SplashDamage);
     }
+
+    public override void Upgrade()
+    {
+        this.splashDamage += NextUpgrade.SpecialDamage;
+        this.tickTime -= NextUpgrade.TickTime;
+        base.Upgrade();
+    }
 }

@@ -113,7 +113,7 @@ MonoBehaviour:
   projectileSpeed: 3
   damage: 5
   debuffDuration: 10
-  proc: 100
+  proc: 10
   attackCooldown: 3
   tickTime: 1
   tickDamage: 5
