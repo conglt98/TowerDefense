@@ -7,6 +7,8 @@ public class CircleSandTower : Tower
     [SerializeField]
     private float slowingFactor;
 
+    public float SlowingFactor { get => slowingFactor; set => slowingFactor = value; }
+
     private void Start()
     {
         ElementType = Element.CIRCLESAND;
@@ -14,6 +16,6 @@ public class CircleSandTower : Tower
 
     public override Debuff GetDebuff()
     {
-        return new CircleSandDebuff(slowingFactor,DebuffDuration,Target);
+        return new CircleSandDebuff(SlowingFactor,DebuffDuration,Target);
     }
 }
