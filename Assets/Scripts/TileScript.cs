@@ -11,9 +11,9 @@ public class TileScript : MonoBehaviour
 
     private Tower myTower;
 
-    private Color32 fullColor = new Color32(255,118,118,255);
+    private Color32 fullColor = new Color32(255, 118, 118, 255);
 
-    private Color32 emptyColor = new Color32(96,255,90,255);
+    private Color32 emptyColor = new Color32(96, 255, 90, 255);
 
     private SpriteRenderer spriteRenderer;
 
@@ -46,7 +46,7 @@ public class TileScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
     public void Setup(Point gridPos, Vector3 worldPos, Transform parent)
@@ -66,7 +66,11 @@ public class TileScript : MonoBehaviour
 
         if (!EventSystem.current.IsPointerOverGameObject() && GameManager.Instance.ClickedBtn != null)
         {
-            if (IsEmpty && !Debugging)
+            if (GridPosition == LevelManager.Instance.BlueSpawn || GridPosition == LevelManager.Instance.RedSpawn)
+            {
+                ColorTile(fullColor);
+            }
+            else if (IsEmpty && !Debugging)
             {
                 ColorTile(emptyColor);
             }
@@ -79,9 +83,9 @@ public class TileScript : MonoBehaviour
                 PlaceTower();
             }
         }
-        else if(!EventSystem.current.IsPointerOverGameObject() && GameManager.Instance.ClickedBtn == null && Input.GetMouseButtonDown(0))
+        else if (!EventSystem.current.IsPointerOverGameObject() && GameManager.Instance.ClickedBtn == null && Input.GetMouseButtonDown(0))
         {
-            if(myTower != null)
+            if (myTower != null)
             {
                 GameManager.Instance.SelectTower(myTower);
             }
@@ -99,11 +103,24 @@ public class TileScript : MonoBehaviour
         {
             ColorTile(Color.white);
         }
-       
+
     }
 
     private void PlaceTower()
     {
+        WalkAble = false;
+        if (Astar.GetPath(LevelManager.Instance.BlueSpawn, LevelManager.Instance.RedSpawn) == null)
+        {
+            WalkAble = true;
+            return;
+        }
+
+        if (GridPosition == LevelManager.Instance.BlueSpawn || GridPosition == LevelManager.Instance.RedSpawn)
+        {
+            WalkAble = true;
+            return;
+        }
+
         GameObject tower = (GameObject)Instantiate(GameManager.Instance.ClickedBtn.TowerPerfab, WorldPositionTower, Quaternion.identity);
         tower.GetComponent<SpriteRenderer>().sortingOrder = GridPosition.Y;
 

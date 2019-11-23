@@ -95,11 +95,11 @@ public class Astar
                     currentNode = currentNode.Parent;
                 }
                 
-                break;
+                return finalPath;
             }
         }
 
-        return finalPath;
+        return null;
 
         //DEBUG
         //GameObject.Find("AstarDebugger").GetComponent<AstarDebugger>().DebugPath(openList, closedList, finalPath);
