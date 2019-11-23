@@ -55,6 +55,10 @@ public class GameManager : Singleton<GameManager>
     [SerializeField]
     private GameObject inGameMenu;
 
+    [SerializeField]
+    private GameObject optionsMenu;
+
+
     private Tower selectedTower;
 
     private List<Monster> activeMonsters = new List<Monster>();
@@ -338,15 +342,22 @@ public class GameManager : Singleton<GameManager>
 
     public void ShowInGameMenu()
     {
-        inGameMenu.SetActive(!inGameMenu.activeSelf);
-
-        if (!inGameMenu.activeSelf)
+        if (optionsMenu.activeSelf)
         {
-            Time.timeScale = 1;
+            ShowMain();
         }
         else
         {
-            Time.timeScale = 0;
+            inGameMenu.SetActive(!inGameMenu.activeSelf);
+
+            if (!inGameMenu.activeSelf)
+            {
+                Time.timeScale = 1;
+            }
+            else
+            {
+                Time.timeScale = 0;
+            }
         }
     }
 
@@ -354,5 +365,17 @@ public class GameManager : Singleton<GameManager>
     {
         ClickedBtn = null;
         Hover.Instance.Deactivate();
+    }
+
+    public void ShowOptions()
+    {
+        inGameMenu.SetActive(false);
+        optionsMenu.SetActive(true);
+    }
+
+    public void ShowMain()
+    {
+        inGameMenu.SetActive(true);
+        optionsMenu.SetActive(false);
     }
 }
