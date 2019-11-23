@@ -52,6 +52,9 @@ public class GameManager : Singleton<GameManager>
     [SerializeField]
     private Text upgradePrice;
 
+    [SerializeField]
+    private GameObject inGameMenu;
+
     private Tower selectedTower;
 
     private List<Monster> activeMonsters = new List<Monster>();
@@ -172,6 +175,21 @@ public class GameManager : Singleton<GameManager>
         if (Input.GetMouseButtonDown(1))
         {
             Hover.Instance.Deactivate();
+        }
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            if (selectedTower == null && !Hover.Instance.IsVisible)
+            {
+                ShowInGameMenu();
+            }
+            else if (Hover.Instance.IsVisible)
+            {
+                DropTower();
+            }
+            else if (selectedTower != null)
+            {
+                DeselectTower();
+            }
         }
     }
 
@@ -316,5 +334,25 @@ public class GameManager : Singleton<GameManager>
                 selectedTower.Upgrade();
             }
         }
+    }
+
+    public void ShowInGameMenu()
+    {
+        inGameMenu.SetActive(!inGameMenu.activeSelf);
+
+        if (!inGameMenu.activeSelf)
+        {
+            Time.timeScale = 1;
+        }
+        else
+        {
+            Time.timeScale = 0;
+        }
+    }
+
+    private void DropTower()
+    {
+        ClickedBtn = null;
+        Hover.Instance.Deactivate();
     }
 }
