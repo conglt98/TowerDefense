@@ -123,6 +123,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 1
+  elementType: 0
   health:
     bar: {fileID: 7136813216755167828}
     maxVal: 0
@@ -237,17 +238,17 @@ PrefabInstance:
     - target: {fileID: 6277666349303768430, guid: 12baf227b2409dd4f87548425fd0aee6,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -1
+      value: -0.076
       objectReference: {fileID: 0}
     - target: {fileID: 6277666349303768430, guid: 12baf227b2409dd4f87548425fd0aee6,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 2.55
+      value: 2.63
       objectReference: {fileID: 0}
     - target: {fileID: 6277666349303768430, guid: 12baf227b2409dd4f87548425fd0aee6,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: 263.619
+      value: 355.492
       objectReference: {fileID: 0}
     - target: {fileID: 6277666349303768430, guid: 12baf227b2409dd4f87548425fd0aee6,
         type: 3}
